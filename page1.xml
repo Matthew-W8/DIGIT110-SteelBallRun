@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="cbml.rnc" type="application/relax-ng-compact-syntax"?>
+<TeiHeader>
+    TO SUMMARIZE A HISTORICAL BACKGROUND
+    
+    The 'telephone' that was invented by Alexander Graham Bell became a staple in 50,000 Amercian Households alone within four years.
+    
+    The 'steam locomotive' that crossed the North Amercian continent reached
+    a top speed of 120km/hr, and an average speed of 88km/hr.
+    
+    And the public spectator sports frenzy, the Pro Baseball National League
+    was born in 1876, and the first champion horse team was the "Chicago White Sox".
+    The race horse "Domino" was the champion of the Kentucky Derby in 1891, and
+    reigned undefeated as "Black Whirlwind".
+    
+    And in the first international Olympics that opened in Athens, Greece in 1896,
+    each sport had "prize money" despite strict amateur regulations.
+</TeiHeader>
