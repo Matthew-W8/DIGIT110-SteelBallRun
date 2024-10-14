@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="cbml.rnc" type="application/relax-ng-compact-syntax"?>
-<TeiHeader>
-    TO SUMMARIZE A HISTORICAL BACKGROUND
-    
-    The 'telephone' that was invented by Alexander Graham Bell became a staple in 50,000 Amercian Households alone within four years.
-    
-    The 'steam locomotive' that crossed the North Amercian continent reached
-    a top speed of 120km/hr, and an average speed of 88km/hr.
-    
-    And the public spectator sports frenzy, the Pro Baseball National League
-    was born in 1876, and the first champion horse team was the "Chicago White Sox".
-    The race horse "Domino" was the champion of the Kentucky Derby in 1891, and
-    reigned undefeated as "Black Whirlwind".
-    
-    And in the first international Olympics that opened in Athens, Greece in 1896,
-    each sport had "prize money" despite strict amateur regulations.
-</TeiHeader>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Jojo's Bizzare Adventure: Steel Ball Run: Volume 1 </title>
+                <author>HiroHiko Araki</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <date> </date>
+                <availability status="unknown">
+                    <p>We don't know yet</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <namespace name="http://www.cbml.org/ns/1.0">
+                    <tagUsage gi="cbml:panel"/>
+                    <tagUsage gi="cbml:caption"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+        <text>
+            <body>
+                <div type="page" xml:id="pg_1">
+                    <cbml:panel n="1">
+                        <cbml:caption type="heading">TO SUMMARIZE A HISTORICAL
+                            BACKGROUND</cbml:caption>
+                        <!-- I don't know why this won't validate - Matt W -->
+                        <!-- This panel was formatted in paragraphs and I wasn't sure how to handle that with cbml - Matt W -->
+
+                        <p>The 'telephone' that was invented by Alexander Graham Bell became a
+                            staple in 50,000 Amercian Households alone within four years.</p>
+
+                        <p>The 'steam locomotive' that crossed the North Amercian continent reached
+                            a top speed of 120km/hr, and an average speed of 88km/hr.</p>
+
+                        <p>And the public spectator sports frenzy, the Pro Baseball National League
+                            was born in 1876, and the first champion horse team was the "Chicago
+                            White Sox". The race horse "Domino" was the champion of the Kentucky
+                            Derby in 1891, and reigned undefeated as "Black Whirlwind".</p>
+
+                        <p>And in the first international Olympics that opened in Athens, Greece in
+                            1896, each sport had "prize money" despite strict amateur
+                            regulations.</p>
+                        <note type="panelDesc">Background information pertanent to the story.</note>
+                    </cbml:panel>
+                </div>
+            </body>
+        </text>
+    </teiHeader>
+</TEI>
