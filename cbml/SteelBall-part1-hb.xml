@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -34,8 +34,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="page" xml:id="pg_1">
+            <div type="page" facs="https://mangadex.org/chapter/e19ebc08-63e8-44dd-a1b2-2d7c07e22e9c/1" xml:id="pg_1">
                 <cbml:panel n="1">
+                    <cbml:balloon type="speech">
+                        
+                    </cbml:balloon>
                     <cbml:caption type="heading">TO SUMMARIZE A HISTORICAL BACKGROUND</cbml:caption>
                     <!-- I don't know why this won't validate - Matt W -->
                     <!-- This panel was formatted in paragraphs and I wasn't sure how to handle that with cbml - Matt W -->
