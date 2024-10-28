@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jojo's Bizzare Adventure: Steel Ball Run: Chapter 25</title>
+                <author>Hirohiko Araki</author>
+                <editor>Harry Bartolotti</editor>
+            </titleStmt>
+
+            <publicationStmt>
+                <date> </date>
+                <availability status="free">
+                    <p>Available on MangaDex</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Printed in Ultra Jump</p>
+                <p>Retrieved from this online resource <ptr
+                    target="https://mangadex.org/chapter/b5e07b0e-5dab-443c-82ca-c1d5ca93d419"/></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <namespace name="http://www.cbml.org/ns/1.0">
+                    <tagUsage gi="cbml:panel"/>
+                    <tagUsage gi="cbml:caption"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/1" xml:id="pg_1">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <p>Don't ever speak to me ever again-ever</p>
+                    </cbml:balloon>
+                    <note>Gyro Zeppeli is in the corner saying something</note>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/2" xml:id="pg_2">
+                <cbml:panel n="1">
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>In 1191 A.D., 5 meters under the yard of Galstonbury Monastry, in Southwest Europe...</p>
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>An 'Old Map' written on parchment was discovered.</p>
+                    </cbml:caption>
+                    <note>Two archiologist find a treasure chest.</note>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>It was a relic of 'Joseph of Arimathea'</p>
+                        <note>In the chest is the 'Old Map.'</note>
+                    </cbml:caption>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>'Joseph of Arimathea' was the Saint, who, during the era of the Roman Empire.</p>
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>Brought the dead body of Jesus Christ down from the cross after he was crucified on the hill of Golgotha..</p>
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        <p>..And who cleaned the body before its burial.</p>
+                    </cbml:caption>
+                    <note>Jesus is taken off the cross by Joseph. Joseph and Jesus's mother, Mary, holds him. Mary give him a kiss on the head.</note>
+                </cbml:panel>
+            </div>
+        </body>
+    </text>
+</TEI>
