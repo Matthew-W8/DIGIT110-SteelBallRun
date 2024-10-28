@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jojo's Bizzare Adventure: Steel Ball Run: Chapter 26</title>
+                <author>HiroHiko Araki</author>
+                <editor>Matthew Wilpula</editor>
+            </titleStmt>
+
+            <publicationStmt>
+                <date> </date>
+                <availability status="unknown">
+                    <p>We don't know yet</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Printed....(explain!!!!!!!!!!!!)</p>
+                <p>Retrieved rom this online resource <ptr
+                    target="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1"/></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <namespace name="http://www.cbml.org/ns/1.0">
+                    <tagUsage gi="cbml:panel"/>
+                    <tagUsage gi="cbml:caption"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1" xml:id="pg_1">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Funny Valentine">
+                       LISTEN... WE CALL THIS A "PLAN" MR. STEEL.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Funny Valentine">
+                        MURDER YOU SAY WATCH YOUR WORDS.
+                    </cbml:balloon>
+                    <note>Illustration depicts President Valentine in an unorthodox pose.</note>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/2" xml:id="pg_2">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        AND NOW ME!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        I'VE ALSO BECOME A TARGET!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        GYRO WASN'T THEIR ONLY GOAL!
+                    </cbml:balloon>
+                    <note>Illustartion depicts Johnny, noticablely scratched up, riding away from a horde of crows on his horse.</note>
+                </cbml:panel>
+            </div>
+        </body>
+    </text>
+</TEI>
