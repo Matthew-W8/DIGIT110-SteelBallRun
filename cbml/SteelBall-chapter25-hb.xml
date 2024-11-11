@@ -35,38 +35,211 @@
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/1" xml:id="pg_1">
                 <cbml:panel n="1">
                     <cbml:balloon type="speech" who="Gyro Zeppeli">
-                        <p>Don't ever speak to me ever again-ever</p>
+                        Don't ever speak to me ever again-ever
                     </cbml:balloon>
-                    <note>Gyro Zeppeli is in the corner saying something</note>
+                    <desc>Gyro Zeppeli is in the corner saying something</desc>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/2" xml:id="pg_2">
                 <cbml:panel n="1">
                     <cbml:caption type="speech" who="Narrator">
-                        <p>In 1191 A.D., 5 meters under the yard of Galstonbury Monastry, in Southwest Europe...</p>
+                        In 1191 A.D., 5 meters under the yard of Galstonbury Monastry, in Southwest Europe...
                     </cbml:caption>
                     <cbml:caption type="speech" who="Narrator">
-                        <p>An 'Old Map' written on parchment was discovered.</p>
+                        An 'Old Map' written on parchment was discovered.
                     </cbml:caption>
-                    <note>Two archiologist find a treasure chest.</note>
+                    <desc>Two archiologist find a treasure chest.</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
                     <cbml:caption type="speech" who="Narrator">
-                        <p>It was a relic of 'Joseph of Arimathea'</p>
-                        <note>In the chest is the 'Old Map.'</note>
+                        It was a relic of 'Joseph of Arimathea'
+                        <desc>In the chest is the 'Old Map.'</desc>
                     </cbml:caption>
                 </cbml:panel>
                 <cbml:panel n="3">
                     <cbml:caption type="speech" who="Narrator">
-                        <p>'Joseph of Arimathea' was the Saint, who, during the era of the Roman Empire.</p>
+                        'Joseph of Arimathea' was the Saint, who, during the era of the Roman Empire.
                     </cbml:caption>
                     <cbml:caption type="speech" who="Narrator">
-                        <p>Brought the dead body of Jesus Christ down from the cross after he was crucified on the hill of Golgotha..</p>
+                        Brought the dead body of Jesus Christ down from the cross after he was crucified on the hill of Golgotha..
                     </cbml:caption>
                     <cbml:caption type="speech" who="Narrator">
-                        <p>..And who cleaned the body before its burial.</p>
+                        ..And who cleaned the body before its burial.
                     </cbml:caption>
-                    <note>Jesus is taken off the cross by Joseph. Joseph and Jesus's mother, Mary, holds him. Mary give him a kiss on the head.</note>
+                    <desc>Jesus is taken off the cross by Joseph. Joseph and Jesus's mother, Mary, holds him. Mary give him a kiss on the head.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/3" xml:id="pg_3">
+                <cbml:panel n="1">
+                    <head type="text">
+                        <emph>#25 tusk part 1</emph>
+                        <desc>Johnny and Gyro lay in the desert. A skeleton of a dinosaur is right behind them.</desc>
+                    </head>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/4" xml:id="pg_4">
+                <cbml:panel n="1">
+                    <cbml:caption type="speech" who="Narrator">
+                        Joseph of Arimathea became a missionary and went on many journeys.
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        He founded the oldest Christian Monastery, Glastonbury, on the island of Britain, and died there.
+                    </cbml:caption>
+                    <desc>Joesph looks out to the ocean.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:caption type="speech" who="Narrator">
+                        'The Map of Joseph of Arimathea'...
+                    </cbml:caption>
+                    <desc>A portrait of Joseph is seen. It overlaps in the first panel</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:caption type="speech" who="Narrator">
+                        But nobody could understand the 'map'.
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        Nobody had ever seen shores with the 'shape' of those drawn on it.
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        A place that nobody hav ever seen...
+                    </cbml:caption><cbml:caption type="speech" who="Narrator">
+                        A place that nobody knew...
+                    </cbml:caption>
+                    <desc>Full view of the 'shape' Joseph drew</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/5" xml:id="pg_5">
+                <cbml:panel n="1">
+                    <cbml:caption type="speech" who="Narrator">
+                        What was the purpose of 'Saint Joseph' drawing this map in the time of Jesus...?
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        Eventually, the 'map' began to fade from the people's minds...
+                    </cbml:caption>
+                    <desc> Joseph stands in front of a picture frame. The picture is of a beautiful lady.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Closer view of the map Jospeh drew.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:caption type="speech" who="Narrator">
+                        But suddenly...
+                    </cbml:caption>
+                    <cbml:caption type="speech" who="Narrator">
+                        1500 years later, in the 16th century, the 'map' was stolen and fell into unknown hands. It disappeared from the Land of Glastonbury.
+                    </cbml:caption>
+                    <desc>A shady figure is walking away from the Monastery in Glastonbury..</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/6" xml:id="pg_6">
+                <cbml:panel n="1">
+                    <cbml:caption type="speech" who="Narrator">
+                        It was a few years after the New World, 'America,' had been discovered.
+                    </cbml:caption>
+                    <sound>stomp <note>The comic uses the Kanji for stomp</note></sound>
+                    <cbml:caption type="speech" who="Narrator">
+                        And now, in 1890
+                        25km to 'Monument Valley'
+                    </cbml:caption>
+                    <desc>A view of Earth from Space</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <sound>stomp</sound>
+                    <desc>Gyro leads as Johnny rides close behind. A third person is slowly cathing up.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/7" xml:id="pg_7">
+                <cbml:panel n="1">
+                    <desc>The feet of the three horses stomping quickly.</desc>
+                    <sound></sound>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Johnny looks over the third person approaching. He wears a nervous and frusrated look.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Johnnyyy...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">That guy's horse must be on steroids!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">It's 25km to the goal! He either has some crazy technique, or He's just doping otherwise, he woudn't be able to challenge us at this point...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">He must be doping! I just decided that he is. What was it? That guy's name behind us??</said>
+                    </cbml:balloon>
+                    <desc>Gyro looks frusturated.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">'F.Y. Stroheim'!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">He's German and he plaved 7th in the 1st stage! Let's let him pass us, Gyro!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Our horses' pulses have gone up to 220 per minute! If we force our horses to run at their top speed here, they won't las until the goal!</said>
+                    </cbml:balloon>
+                    <desc>Stroheim has a monical. He looks with a neutral expression.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/8" xml:id="pg_8">
+                <sound>Stomp</sound>
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">No, Johnny don't let him get close! We can't let any stranger near us!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">The course to the left is my Valkyrie's favorite type of land! We'll let him crush himself there!</said>
+                    </cbml:balloon>
+                    <desc>Gyro and Johnny start to go left while Stroheim follows.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Stroheim looks menacingly at them</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Stroheim looks more menacingly as shadow cover his face. He holds out his arm that looks like a gun.</desc>
+                    <cbml:panel n="4">
+                        <desc>Johnny looks behind.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/9" xml:id="pg_9">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Gyro, He pulled out a gun!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">He's a terrorist!</said>
+                    </cbml:balloon>
+                    <desc>Strohiem points his gun at Gyro</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Gyro flips himself around about to throw one of his balls.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Gyro gets shoot in the side of his stomach</desc>
+                    <cbml:panel n="4">
+                        <cbml:balloon type="speech" who="Gyro Zeppeli">
+                            GUH
+                        </cbml:balloon>
+                        <desc>Close up on Gyro's eye.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Gyro starts to fall off of his horse</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>Johnny looks in shock</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/10" xml:id="pg_10">
+                <cbml:panel n="1">
+                    <desc>Strohiem shoots more as Johnny tries to duck.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Gyro falls off his horse. He rolls a bit as the rest of them keep running.</desc>
                 </cbml:panel>
             </div>
         </body>
