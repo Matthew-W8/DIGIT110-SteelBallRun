@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jojo's Bizzare Adventure: Steel Ball Run: Chapter 27</title>
+                <author>HiroHiko Araki</author>
+                <editor>Connor Carpenter</editor>
+            </titleStmt>
+
+            <publicationStmt>
+                <date> </date>
+                <availability status="unknown">
+                    <p>We don't know yet</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Printed....(explain!!!!!!!!!!!!)</p>
+                <p>Retrieved rom this online resource <ptr
+                        target="GET BASE PAGE FOR MANGA BOOK HERE"/></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <namespace name="http://www.cbml.org/ns/1.0">
+                    <tagUsage gi="cbml:panel"/>
+                    <tagUsage gi="cbml:caption"/>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/1" xml:id="pg_1">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech">CHYUMIMIN
+                          </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/2" xml:id="pg_2">
+                <cbml:panel n="2">
+                    <cbml:balloon type="chaos">Johnny is currently being entrapped in sand.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/3" xml:id="pg_3">
+                <cbml:panel n="3">
+                    <cbml:balloon type="description"> Name - "Pork Pie Hat Kid" ; Stand Name - Wired ; Pork Pie Hat's stand looks like a winch, which can wind up its wires with tremendous power. He seems to be able to lift about one horse. Through a plate with water, Pork Pie Hat can lower his hooks through a different dimension to catch his prey. If he uses a bait such as a feather or an insect, he can hook his prey from the bait itself. There are 2 wires.
+                    </cbml:balloon>
+                    <cbml:balloon type="description"> Name - Gyro Zeppeli ; Ability Name - Steel Ball No. 1, Steel Ball no. 2 ; By spinning the steel balls, Gyro can carve into rocks, as well as harden or numb the skin of living things. Gyro claims it to be a "technique", but it is not true that his power has gotten stronger since passing through the strange land of the "Devil's Palm"? The steel balls have throwing range of 20 to 30 meters.
+                    </cbml:balloon>
+                    <cbml:balloon type="description"> Name - Johnny Joestar ; Stand Name - Tusk ; Johnny can spin the nails on his hands and feet, and can cut with them and shoot them like bullets. It seems that the nails grow back, no matter how many are shot. The range of the nails is about 10 meters. He can also move around by the friction caused by the spin. When Johnny passed through the "Devil's Palm", the mummified left hand came into Johnny's hand. This was the cause of his stand ability. The guardian of the left arm appears in the form of that shown on the left. That's what it looked like to Johnny.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/4" xml:id="pg_4">
+                <cbml:panel n="4">
+                    <cbml:balloon type="chaos">Hooks are coming down from the sky and have entrapped a snake.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/5" xml:id="pg_5">
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech">Only a snake...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Humph...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">..........
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Ha
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Ha
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Ah
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/6" xml:id="pg_6">
+                <cbml:panel n="6">
+                    <cbml:balloon type="sound">GACHANG..GEEEEEE GOGIGUGAAA SLURP SLURP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">GWEEEEE
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">PRRRRRRYY
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">PRRRRRR
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Wh... Where is he? Dyam!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/7" xml:id="pg_7">
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech">That creep! Where'd he gooooo! I'll kill him!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Jyoshterrr! I'll tear you apart like a spitchcock and kill you for sure!!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/8" xml:id="pg_8">
+                <cbml:panel n="8">
+                    <cbml:balloon type="speech">Did I...! Did I lose him...? Is he underground? ...He's hiding somewhere, that's for sure...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">...But say... This is fucking fun... But so terrible at the same time.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">I'VE GOT NO CLUE!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">GWEEEEEWEEE
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">I've got a feeling that he's coming towards this place... But then again, he could be escaping that way through the desert...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">I have no idea how he's doing it! That shmuck!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Man...! I'm almost there............. Just one more step to finish him and get the "corpse"...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/9" xml:id="pg_9">
+                <cbml:panel n="9">
+                    <cbml:balloon type="speech">It seems like the "enemy" can only see and attack from above...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Only about 500m to that mountain....
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">If I got up to the rocks' shade... I should be able to climb without being spotted!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">The "enemy" has completely lost track of me!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Plus, the hooks are moving further away!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BSHOOOM
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/10" xml:id="pg_10">
+                <cbml:panel n="10">
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRRRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">NEEIGH!!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRRRRRRURRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+        </body>
+    </text>
+</TEI>
