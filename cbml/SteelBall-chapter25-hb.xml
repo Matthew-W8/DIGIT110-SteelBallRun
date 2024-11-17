@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -222,7 +223,7 @@
                     <desc>Gyro gets shoot in the side of his stomach</desc>
                     <cbml:panel n="4">
                         <cbml:balloon type="speech" who="Gyro Zeppeli">
-                            GUH
+                            <said aloud="true">GUH</said>
                         </cbml:balloon>
                         <desc>Close up on Gyro's eye.</desc>
                     </cbml:panel>
@@ -241,6 +242,738 @@
                 <cbml:panel n="2">
                     <desc>Gyro falls off his horse. He rolls a bit as the rest of them keep running.</desc>
                 </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/11" xml:id="pg_11">
+                <cbml:panel n="1">
+                    <desc>Johnny falls off his horse.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <sound></sound>
+                    <desc>Strohiem stands above Gyro and starts to shoot him.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>The shots hit Gyro in the face.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Byoww!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">It huuurrrrts!</said>
+                    </cbml:balloon>
+                    <desc>Bullets start to enter Gyro's face</desc>
+                    <cbml:panel n="4">
+                        <desc>Close up of Strohiems eyes.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/12" xml:id="pg_12">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        Y... You son of a bitch!
+                    </cbml:balloon>
+                    <desc>Gyro's face is filled with bullet holes. Blood starts to come out of his mouth.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Gaaah!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Freakin' hurts!</said>
+                    </cbml:balloon>
+                    <desc>Gyro gets up and starts to rub his face.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Close up of Strohiem's face.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny lays on the ground looking over at them.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <sound></sound>
+                    <desc>Gyro starts to spin his steel balls.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">'The spin of the steel balls'...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="F. Y. Strohiem">
+                        <said aloud="true">It has the power to carve certain things and control certain body muscles.</said>
+                    </cbml:balloon>
+                    <desc>Strohiem continues to point his gun at Gyro.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/13" xml:id="pg_13">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">It looks like you can make your skin hard enough to bounce off bullets...</said>
+                    </cbml:balloon>
+                    <desc>Strohiem starts to look nervous with this revolation.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <sound></sound>
+                    <desc>The steel balls continue to spin. Gyro's wrist aborbed the bullets.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>All of Gryo's arm has harded and absorbed the bullets.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">You...</said>
+                        <desc>Gryo looks mad. Blood continues come out of his mouth.</desc>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <sound></sound>
+                    <desc>Strohiem starts to shoot again.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Waah! Fuck you!</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Gyro puts his arms in front of him. The bullets bounce off them.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/14" xml:id="pg_14">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">Drop them! Gryo Zeppeli!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">Drop 'those' from you hand now!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">If you don't, I'll shoot you friend and your horse.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">You can even throw them towards me... It'll allow me to prove that my guns are faster...</said>
+                    </cbml:balloon>
+                    <desc>Strohiem continues to point his gun at Gryo. But he pulls a second and points it at Johnny.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Gyro looks menacingly.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">You want me to drop these steel balls?</said>
+                    </cbml:balloon>
+                    <desc>Gryo gets up and spins the balls faster.</desc>
+                    <cbml:panel n="4">
+                        <desc>Johnny looks shocked.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Are you sure?</said>
+                    </cbml:balloon>
+                    <desc>Gyro looks menacingly!</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <desc>Strohiem looks nervous.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/15" xml:id="pg_15">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Gryo Zeppeli">
+                        <said aloud="true">Well if you insist that I drop them...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">I guess I'll go ahead and do that...</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Gyro has a smug look on his face. The steel balls spin faster.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Strohiem looks nervous</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">!!</said>
+                    </cbml:balloon>
+                    <desc>Johnny looks confused.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <sound></sound>
+                    <desc>The bullets are on the back of Gyro's hand. They start to spin too.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <sound></sound>
+                    <desc>The bullets start to spin faster.</desc>
+                    <cbml:panel n="6">
+                        <desc>Strohiem's eyes full of fear.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/16" xml:id="pg_16">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">Eh!</said>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <sound>Menacing</sound>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Dropped 'em</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Gryo drops the steel balls as all of the bullets come back to Strohiem.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>All of the bullets hit Strohiem. One hits his eye and another breaks his gun.</desc>
+                    <cbml:panel n="4">
+                        <desc>Strohiem's eye</desc>
+                    </cbml:panel>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="F.Y. Strohiem">
+                        <said aloud="true">Ugah!!</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Strohiem flies back off his horse.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>Strohiem falls to the ground</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>The steel balls land on the ground.</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <desc>Gryo looks down at them.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/17" xml:id="pg_17">
+                <cbml:panel n="1">
+                    <sound></sound>
+                    <desc>The steel balls fly back up to Gyro's hands</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Johnny looks shocked</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>Gyro gets back on his horse</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny looks frustrated</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">......... .........</said>
+                    </cbml:balloon>
+                    <desc>Johnny sweats. The panel is a close up of his eyes.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">These terrorists...</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Your home country... just what in the world...</said>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="false">... ...</said>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">What's going on?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Even if the victory of this continent-crossing race is a 'symbol of victory for a nation'...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">It's too intense...! These assults from the terrorists...</said>
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/18" xml:id="pg_18">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Why do they constantly keep attacking you like that?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">They're only after you!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true"> But it's only a race! Before there was 'Oyecomova', and now 'Stroheim'! I feel something deeper... A 'deeper connection' between our country and the terrorists!</said>
+                    </cbml:balloon>
+                    <desc>Johnny tooks frustrated!</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Gyro looks down at Johnny.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">I am a 'Servant of the King'.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">If I am victorious in the steel ball run race...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">The King will release an 'Amnesty'. That is all.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">I will cross the continetn as number 1! If you think you're endangering yourself. You should travel separately.</said>
+                    </cbml:balloon>
+                    <desc>Gyro looks down at Johnny. The shadow from his hat covers his eyes.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <sound></sound>
+                    <desc>Gyro turns his horse and continues to move.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <desc>Johnny lays on the ground in shock</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <sound></sound>
+                    <desc>Johnny starts to get angry. He grabs his bag.</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>Something catches Johnny's eyes</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <sound></sound>
+                    <desc>There is cut on Johnny's palm</desc>
+                </cbml:panel>
+                <cbml:panel n="9">
+                    <desc>The cut goes all the way up to his thumb.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/19" xml:id="pg_19">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Ah...</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>The cut goes up the his thumb. A dark liquid comes out of it.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">I cut myself... When I fell off the horse...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="true" who="Johnny Joestar">
+                        <said aloud="true">But I don't feel any pain...</said>
+                    </cbml:balloon>
+                    <desc>Johnny rubs the cut.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>The cur spreads out to each finger and down to his forearm. And a second hand comes out of the cut. It is made up of the dark substance.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/20" xml:id="pg_20">
+                <cbml:panel n="1">
+                    <sound></sound>
+                    <desc>Johnny's eyes widen</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Wha?!</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Johnny looks in horror as the third had wiggles around. More of the liquid starts to come out.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <sound></sound>
+                    <desc>A beam shoots through the hand.</desc>
+                    <cbml:panel n="4">
+                        <desc>Close up of Johnny's eyes.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/21" xml:id="pg_21">
+                <cbml:panel n="1">
+                    <sound></sound>
+                    <desc>The new hole starts to bleed.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Wha...</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Johnny sceams as the hand starts to go back into his skin.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">What is this?! Gy...GYROO! WAIT! WAIT FOR ME!</said>
+                    </cbml:balloon>
+                    <sound>Menacing</sound>
+                    <desc>Johnny holds his hand.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Gyro turns his head.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">My left hand?! What the hell?!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">L... Look! My hand just suddenly...?!?!</said>
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/22" xml:id="pg_22">
+                <cbml:panel n="1">
+                    <desc>Johnny lifts his left hand to show Gyro.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">...Huh...?!</said>
+                    </cbml:balloon>
+                    <desc>Johnny looks at his hand as it glows</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Gyro looks back at him.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">What?</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Johnny looks down at his hand.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <desc>Johnny inspects his hand.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <sound></sound>
+                    <desc>Johnny's skeleton pushed against his skin. </desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/23" xml:id="pg_23">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">UWAAH!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">Th.. This... ?!</said>
+                    </cbml:balloon>
+                    <desc>Johnny yells at his hand.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Hey, what's going on?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true"> You yell at me... then ignore me and talk at the ground?</said>
+                    </cbml:balloon>
+                    <desc>Gyro looks at Johnny</desc>
+                    <cbml:panel n="3">
+                        <desc>Johnny starts to sweat.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">N... NO!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">There's something! Something just... went into my hand!!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">It came out of my left hand and went back in again!</said>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <sound></sound>
+                    <desc>Johnny pokes his hand. The skeleton has stopped pressing against the skin.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        <said aloud="true">Did you hurt yourself somewhere?</said>
+                    </cbml:balloon>
+                    <desc>Gyro starts to turn his horse around.</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">N...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="true">...No...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">I don't feel any pain.. am I hallucinating?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">But...that can't be... I feel it in my heart that it's not a 'hallucination' or a 'stand ability' or anything of the sort.</said>
+                    </cbml:balloon>
+                    <desc>Johnny looks in horror and confustion at his hand.</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <sound></sound>
+                    <desc>Johnny's nails on his left hand start to spin.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/24" xml:id="pg_24">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">My spinning nails are my 'stand ability'!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">With my own will...! I can spin my own nails... my ability!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">But this hand gives me a sense of something totally different...</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Johnny looks at his spinning nails</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">There's something in there!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        <said aloud="false">In my... 'left hand'... a,'left hand' that's not mine?! It;s been in there! Since when?</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Johnny's left hand wiggles and shakes</desc>
+                    <cbml:panel n="3">
+                        <desc>Gyro looks back at Johnny.</desc>
+                    </cbml:panel>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <sound></sound>
+                    <desc>A picture of the desert. There are fingers sticking out and in a circle.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/25" xml:id="pg_25">
+                <cbml:panel n="1">
+                    <desc>A closer look at one of the fingers.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <sound></sound>
+                    <sound></sound>
+                    <desc>Mr. Steel sits in the train. He looks at the picture of the finger shaped rocks.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">That photo was taken from approximately 200 meters in the air by a hot air ballon 3 while following the race.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The participants of the 2nd stage are mainly running on 2 routes</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Approximately, 800 of the participants chose the route crossing the desert... However, 523 of them dropped ot at the place in that photograph.</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>The butler stands across the room from Mr. Steel</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The main cause is thought to be accidents resulting from quicksand.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The death toll has risen to 68. This is a real dilemma.</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Butler continues talk to Mr. Steel</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <sound></sound>
+                    <desc>Close up on Steven's eyes</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">68...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="false">...... ...... ......</said>
+                    </cbml:balloon>
+                    <desc>Steven looks back down at the photo.</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The local apache people call that plave the 'Devil's Palm'.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">I say 'Area', but the ground changes and moves like quicksand nobody can predict where the 'Devil's Palm' will appear next.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The land shape had completely vanished within 6 to 7 hours.</said>
+                    </cbml:balloon>
+                    <desc>Mountain view of the 'Devil's Palm'</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/26" xml:id="pg_26">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Geologists believe that the area is related to an ancient meteor crash.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">But its size and geological reason for why it moves around like living thing...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">...Are things that nobody can explain.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The apache people believe that misery comes upon those who go near that land... And they say...</said>
+                    </cbml:balloon>
+                    <desc>A whole view of the train carage.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">The 'Devil's Palm' chooses the people...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">Hm...</said>
+                    </cbml:balloon>
+                    <desc>Closer view of the 'Devil's Palm.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Steven Steel's face</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <sound></sound>
+                    <desc>Steven Steel looks out the window.</desc>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/27" xml:id="pg_27">
+                <cbml:panel n="1">
+                    <sound></sound>
+                    <sound></sound>
+                    <desc>The train goes through the desert. On the left of are the races.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">Was 'Gyro Zeppeli' the first to pass through this land?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Yes.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Currently, the balloons have lost sight of him, but he is in first place accompanied by Johnny Joestar.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">He is most likely 20 km from the goal, Monument Valley.</said>
+                    </cbml:balloon>
+                    <desc>Steven continues to look out the window as his butler stands behind him.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">After Gyro Zeppeli passed through the 'Devil's Palm'...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">Was there any trace of him 'finding' something?</said>
+                        <desc>Steven looks out the window more intensely.</desc>
+                    </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Something... Mr. Steel?</said>
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/28" xml:id="pg_28">
+                <cbml:panel n="1">
+                    
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/29" xml:id="pg_29">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/30" xml:id="pg_30">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/31" xml:id="pg_31">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/32" xml:id="pg_32">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/33" xml:id="pg_33">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/34" xml:id="pg_34">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/35" xml:id="pg_35">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/36" xml:id="pg_36">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/37" xml:id="pg_37">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/38" xml:id="pg_38">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/39" xml:id="pg_39">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/40" xml:id="pg_40">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/41" xml:id="pg_41">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/42" xml:id="pg_42">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/43" xml:id="pg_43">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/44" xml:id="pg_44">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/45" xml:id="pg_45">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/46" xml:id="pg_46">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/47" xml:id="pg_47">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/48" xml:id="pg_48">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/49" xml:id="pg_49">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/50" xml:id="pg_50">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/51" xml:id="pg_51">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/52" xml:id="pg_52">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/53" xml:id="pg_53">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/54" xml:id="pg_54">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/55" xml:id="pg_55">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/56" xml:id="pg_56">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/57" xml:id="pg_57">
+                
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/58" xml:id="pg_58">
+                
             </div>
         </body>
     </text>
