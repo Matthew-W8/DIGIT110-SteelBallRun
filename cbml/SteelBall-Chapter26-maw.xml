@@ -11,14 +11,15 @@
 
             <publicationStmt>
                 <date> </date>
-                <availability status="unknown">
-                    <p>We don't know yet</p>
+                <availability status="free">
+                    <p>Avaliable on MangaDex</p>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>Printed....(explain!!!!!!!!!!!!)</p>
-                <p>Retrieved rom this online resource <ptr
-                    target="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1"/></p>
+                <p>Printed in Ultra Jump</p>
+                <p>Retrieved from this online resource <ptr
+                        target="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1"
+                    /></p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -32,979 +33,1532 @@
     </teiHeader>
     <text>
         <body>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1" xml:id="pg_1">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/1"
+                xml:id="pg_1">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Funny Valentine">
-                       LISTEN... WE CALL THIS A "PLAN" MR. STEEL.
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Funny Valentine">
-                        MURDER YOU SAY WATCH YOUR WORDS.
-                    </cbml:balloon>
-                    <note>Illustration depicts President Valentine in an unorthodox pose.</note>
+                    <cbml:balloon type="speech" who="Funny Valentine"> LISTEN... WE CALL THIS A
+                        "PLAN" MR. STEEL. </cbml:balloon>
+                    <cbml:balloon type="speech" who="Funny Valentine"> MURDER YOU SAY WATCH YOUR
+                        WORDS. </cbml:balloon>
+                    <desc>Illustration depicts President Valentine in an unorthodox pose.</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/2" xml:id="pg_2">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/2"
+                xml:id="pg_2">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AND NOW ME!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I'VE ALSO BECOME A TARGET!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        GYRO WASN'T THEIR ONLY GOAL!
-                    </cbml:balloon>
-                    <note>Illustartion depicts Johnny, noticablely scratched up, riding away from a horde of crows on his horse.</note>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AND NOW ME! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I'VE ALSO BECOME A TARGET! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> GYRO WASN'T THEIR ONLY GOAL! </cbml:balloon>
+                    <desc>Illustartion depicts Johnny, noticablely scratched up, riding away from a
+                        horde of crows on his horse.</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/3" xml:id="pg_3">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/3"
+                xml:id="pg_3">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THE ENEMY'S INTENTION ISN'T JUST TO WIN THIS RACE! JUST WHAT DO THEY WANT?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THE ENEMY'S INTENTION ISN'T
+                        JUST TO WIN THIS RACE! JUST WHAT DO THEY WANT? </cbml:balloon>
+                    <desc>Johnny rides across the desert</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THE BALLOONS?!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THE BALLOONS?! </cbml:balloon>
+                    <desc>A zoom in on Johnny's eyeball</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <note>Johnny looks to the sky</note>
+                    <desc>Johnny looks to the sky</desc>
                 </cbml:panel>
                 <cbml:panel>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I CAN'T SEE CLEARLY RIGHT NOW, BUT IS THERE A 'BALLOON' IN THE SKY SOMEWHERE?!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ABOVE THE CLOUDS?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HOW COULD THEY BE ATTACKING FROM SUCH A PLACE?!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I CAN'T SEE CLEARLY RIGHT NOW,
+                        BUT IS THERE A 'BALLOON' IN THE SKY SOMEWHERE?! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ABOVE THE CLOUDS? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HOW COULD THEY BE ATTACKING
+                        FROM SUCH A PLACE?! </cbml:balloon>
+                    <desc>A low view of Johnny and his horse</desc>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <note>Johnny's horse suddenly disappears from beneath him</note>
+                    <desc>Johnny's horse suddenly disappears from beneath him</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/4" xml:id="pg_4">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/4"
+                xml:id="pg_4">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHA- !?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHA- !? </cbml:balloon>
+                    <desc>Johnny falls to the ground</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        MY HORSE IS GONE, TOO!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> MY HORSE IS GONE, TOO! </cbml:balloon>
+                    <desc>Johnny continues to fall to the ground</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
+                    <desc>Johnny hits the ground</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/5" xml:id="pg_5">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/5"
+                xml:id="pg_5">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WH... WHERE?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WH... WHERE? </cbml:balloon>
+                    <desc>Johnny rolls after his impact</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHAT IS THIS?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHERE IS MY ENEMY?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHAT IS THIS? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHERE IS MY ENEMY? </cbml:balloon>
+                    <desc>Johnny continues to roll</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        SHIT! HOW ARE THEY DOING THIS?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHERE DID GYRO GO?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> SHIT! HOW ARE THEY DOING THIS? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHERE DID GYRO GO? </cbml:balloon>
+                    <desc>Again, Johnny continues to roll</desc>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        SHIIIT! WHERE IS IT AND WHAT IS IT!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> SHIIIT! WHERE IS IT AND WHAT
+                        IS IT! </cbml:balloon>
+                    <desc>Johnny finally starts to stop himself by grabbing the earth beneath
+                        him</desc>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    
+                    <desc>A closeup of Johnny's face with an ominous feather looming in the
+                        background</desc>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    
+                    <desc>A zoom in on the aforementioned feather</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/6" xml:id="pg_6">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/6"
+                xml:id="pg_6">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...... ...... ......
-                    </cbml:balloon>
+                    <desc>Feathers fall from the sky</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...... ...... ...... </cbml:balloon>
+                    <desc>Johnny views the feather descending towards him</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    
+                    <desc>A hook lodges itself in Johnny's cheek</desc>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    
+                    <desc>A zoom in on the hook in Johnny's cheek</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/7" xml:id="pg_7">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/7"
+                xml:id="pg_7">
                 <cbml:panel n="1">
-                    
+                    <desc>The hook is seen connected to the feather</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HUH?
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HUH? </cbml:balloon>
+                    <desc>A zoom on the hook emerging from the feather</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AGAH! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AAAAAAH! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> TH... THIS THING?! </cbml:balloon>
+                    <desc>Johnny's face is pulled by the hook. Blood gushes from the wound</desc>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AGAH!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAAAAAH!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        TH... THIS THING?!
-                    </cbml:balloon>
+                    <desc>Johnny is dragged by the hook</desc>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    
+                    <desc>A closeup of Johnny's feet being dragged</desc>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        A FEATHER THAT FELL OF THOSE BIRDS THAT WERE FLYING BY?!... HOW DID IT?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT... CAME OUT OF THE FEATHER!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> A FEATHER THAT FELL OF THOSE
+                        BIRDS THAT WERE FLYING BY?!... HOW DID IT? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT... CAME OUT OF THE FEATHER! </cbml:balloon>
+                    <desc>Johnny continues to be dragged</desc>
                 </cbml:panel>
                 <cbml:panel n="7">
-                    
+                    <desc>A closeup of Johnny's fingernails. They are glowing a light blue</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/8" xml:id="pg_8">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/8"
+                xml:id="pg_8">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        OURYAAA!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> OURYAAA! </cbml:balloon>
+                    <desc>Johnny jabs at the wire of the hook</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    
+                    <desc>Closeup of the wire responding to Johnny's jabs</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...CAN'T CUT IT!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        A WIRE?!
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...CAN'T CUT IT! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> A WIRE?! </cbml:balloon>
+                    <desc>The wire does not break</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THERE'S A METAL-LIKE WIRE
+                        COMING FROM THE FEATHER! </cbml:balloon>
+                    <desc>Wire emerges from the feather</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> OOH! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> UWOOOOAH!! </cbml:balloon>
+                    <desc>Johnny is dragged upward</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/9"
+                xml:id="pg_9">
+                <cbml:panel n="1">
+                    <desc>The hook yanks itself out of Johnny's cheek, leaving a gaping wound</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHOAA! </cbml:balloon>
+                    <desc>The hook grabs Slow Dancer's saddle bag</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny hits the ground</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>The saddle bag gets sucked into the feather</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>A closeup of Johnny's face, highlighting his facial wound</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/10"
+                xml:id="pg_10">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...... ...... ...... </cbml:balloon>
+                    <desc>Johnny eyes the feather</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> MY STUFF WENT INTO THE
+                        FEATHER! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> 'A STAND ABILITY' </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THROUGH THE FEATHER?! DOES IT
+                        CONNECT TO A DIFFERENT DIMENSION?! 'GYRO' AND THE 'HORSE' WERE CAUGHT BY
+                        THAT 'HOOK' AND PULLED IN THERE! </cbml:balloon>
+                    <desc>Johnny's face with a grimace</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Hooks emerge from the feathers again, much to Johnny's suprise</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A closeup of Johnny's face, with everything except his eyes
+                        darkened</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/11"
+                xml:id="pg_11">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> UH... </cbml:balloon>
+                    <desc>The hooks drag along the ground toward Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The hooks continue to drag along the ground toward Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THERE WASN'T JUST ONE FEATHER!
+                        NOW THERE'S TWO HOOKS! FROM TWO DIFFERENT FEATHERS! </cbml:balloon>
+                    <desc>A closeup of Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>The hooks continue to drag along the ground toward Johnny</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/12"
+                xml:id="pg_12">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT'S AFTER ME! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THE ENEMY WILL TRY TO HOOK ME
+                        IF IT'S THE LAST THING THEY DO! </cbml:balloon>
+                    <desc>Johnny with his arm swung above his head</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The hooks continue to drag along the ground toward Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny spies a rocky outcropping</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A zoom on the aforementioned outcropping</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> A ROCK SHELF! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THERE'S SOME EMPTY SPACE UNDER
+                        THAT ROCK! I NEED TO GET THERE! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I JUST NEED TO HIDE UNDER THAT
+                        THERE! </cbml:balloon>
+                    <desc>Johnny crawls away from the hooks toward the rocky outcropping.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>A closeup on the hooks</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/13"
+                xml:id="pg_13">
+                <cbml:panel n="1">
+                    <desc>Johnny reaches toward the reader, as the hooks follow close behind</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The hooks swing rapidly around Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny shoots his nails into the earth</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/14"
+                xml:id="pg_14">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Wired"> !! </cbml:balloon>
+                    <desc>The hooks swing as Johnny is obscured by dust</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...... ...... ...... </cbml:balloon>
+                    <desc>The hooks swing as Johnny is obscured by dust</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>A closeup of Johnny's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny rolls away on his fingernails</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/15"
+                xml:id="pg_15">
+                <cbml:panel n="1">
+                    <desc>Johnny rolls beneath the rock outcrop</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Johnny hides as the hook fast approach</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Closeup of the hooks</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AAAH! </cbml:balloon>
+                    <desc>Johnny cries out as the hooks slam the ground</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Johnny hides underneath the rock. Wired is nowhere to be seen</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/16"
+                xml:id="pg_16">
+                <cbml:panel n="1">
+                    <desc>The hooks sink down outside the rock</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The hooks swing toward Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Closeup of Johnny's shocked face</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Johnny grabs the hooks...</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>...and disables them</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>The hooks rise again...</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <desc>...and gently swing</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/17"
+                xml:id="pg_17">
+                <cbml:panel n="1">
+                    <desc>Johnny hides under the rock as Wired swings in front of him</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Johnny hides</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny continues to hide</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Johnny hides as Wired taps the top of the rock</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ABOVE! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THE ENEMY IS ABOVE THIS ROCK? </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHING </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...AND IT SEEMS LIKE THEY
+                        WOULD KILL ME WITHOUT HESITATION...! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> B... BUT... WHAT WOULD THEY
+                        GAIN FROM ATTACKING ME?! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THEY HAVE MY HORSE! IF MY
+                        HORSE DIES, I'M OUT OF THE RACE! MY BAGGAGE! MY SADDLE! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Johnny continues to hide</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ......... ......... ......... </cbml:balloon>
+                    <desc>Closeup of Johnny</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/18"
+                xml:id="pg_18">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...... ...... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> !! </cbml:balloon>
+                    <desc>Johnny looks at his hand</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THE 'BAGGAGE'... EVEN GYRO'S
+                        'BAGGAGE'... AND HIS 'HORSE'... </cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ..................!! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> COULD IT BE...?
                     </cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THERE'S A METAL-LIKE WIRE COMING FROM THE FEATHER!
-                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...THAT... THIS 'ENEMY'...! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...IS 'SEARCHING' FOR
+                        SOME-THING...? IS THAT THEIR GOAL...?! </cbml:balloon>
+                    <desc>The past three panels make a singular image of Johnny's hand as he stares
+                        out from under the rock</desc>
                 </cbml:panel>
                 <cbml:panel n="5">
+                    <desc>Closeup of Johnny's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ....... ...... </cbml:balloon>
+                    <desc>Johnny grasps his left hand</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> SEARCHING-------------------!? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> DID THE 'ENEMY' FOLLOW US
+                        SEARCHING FOR 'IT'?! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I SAW IT ONLY FOR A SLIGHT
+                        MOMENT!... AND IT WENT INTO MY 'LEFT HAND'! I THOUGH I WAS HALLUCINATING... </cbml:balloon>
+                    <desc>Johnny continues to look at his hand</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THAT 'LEFT HAND' LOOKED LIKE
+                        IT WAS MUMMIFIED...! I 'FOUND' IT EVEN BEFORE I TOOK NOTICE OF IT... OR, IT
+                        CAME TO ME... (IS IT STILL IN MY ARM NOW?)... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IS 'THAT' IT?! </cbml:balloon>
+                    <desc>The mummified hand emerges from the ground</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I'M STARTING TO UNDERSTAND THE
+                        GOAL THE 'ENEMT'... AT FIRST THEY ATTACKED GYRO, THINKING IT WAS SOMETHING
+                        HE HAD WITH HIM... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THEN THEY STOLE HIS LUGGAGE
+                        AND HORSE, IN THAT ORDER...! SINCE THEY COULDN'T FIND IT, THEY'RE ATTACKING
+                        ME NOW! </cbml:balloon>
+                    <desc>Johnny looks out from under the rock</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/19"
+                xml:id="pg_19">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...THEY THOUGHT THAT IT WAS
+                        SOMETHING WE WERE HIDNG! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> EVEN OYECOMOVA! AND STROHEIM!
+                        THEY WERE AFTER THIS ALL ALONG! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THIS IS THE TERRORISTS' TRUE
+                        GOAL DURING THE RACE!... I HAD NO CLUE, BUT THEY WERE AFTER THE 'MUMMIFIED
+                        ARM'! </cbml:balloon>
+                    <desc>A far out shot of the rock. Wired hangs over it. Portirats of Stroheim and
+                        Oyecomova are present in the corner</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> BUT WHAT IS IT? THAT MUMMY!
+                        'WHOSE ARM' IS IT?! </cbml:balloon>
+                    <desc>An image of the mummified hand</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>The feathers above the rock</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A zoom of one of the feathers</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/20"
+                xml:id="pg_20">
+                <cbml:panel n="1">
+                    <desc>The feathers in a pool of water. Wired is sticking through them</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>A figure stands above the pool, wired spinning around him</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Two fishing reels pull Wired into a mouth</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A different view of the reels, this time showing some tongue</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/21"
+                xml:id="pg_21">
+                <cbml:panel n="1">
+                    <desc>Wired is being yanked up</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>A mouth with two fishing reels in it</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="sound-effect" who="Wired"> PRRRRRR PRRRR PRR... </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Wired"> PRRRRR PRRR PR... </cbml:balloon>
+                    <desc>Wired is being pulled into a boy's mouth</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A hand grabs the feathers attached to Wired</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="sound-effect" who="Wired"> KA-CHAANG </cbml:balloon>
+                    <desc>The hooks land on the boy's tongue</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> GWEEEEE-GACHANG! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> GWEEEEE-GACHANG! </cbml:balloon>
+                    <desc>The boy poses with Johnny and Gyro's gear surrounding him</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/22"
+                xml:id="pg_22">
+                <cbml:panel n="1">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> PRRRRR RRRMZ- </cbml:balloon>
+                    <desc>The boy eyes a rock</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> SHANK </cbml:balloon>
+                    <desc>The boy picks up a rock</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> HEY! </cbml:balloon>
+                    <desc>The boys bashes it against Slow Dancer's saddle bag</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> HEY! </cbml:balloon>
+                    <desc>The boy continues to slam it against the bag</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>The boy continues to slam it against the bag</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>A closeup of his face</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> CLANK CLANK </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> CLUNK CLUNK </cbml:balloon>
+                    <desc>The boy continues to slam it against the bag</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <desc>The boy reaches into the bag</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/23"
+                xml:id="pg_23">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> ... ... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> ...... ....? </cbml:balloon>
+                    <desc>The boy pulls out a pen</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> ? </cbml:balloon>
+                    <desc>Ink drips from the pen</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> SNIFF SNIFF </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> SNIFF </cbml:balloon>
+                    <desc>The boy sniffs the pen</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> !! </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pen"> DRIP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pen"> DROP </cbml:balloon>
+                    <desc>The boy shakes the pen</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="sound-effect" who="Pen"> DRIP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pen"> DROP </cbml:balloon>
+                    <desc>The boy shakes the pen</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>A drop of ink drops onto the boy's finger</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>The boy sticks the pen in his mouth</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> SLURP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> SLURP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> SLURP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GULP </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GULP </cbml:balloon>
+                    <desc>The boy drinks the ink from the pen</desc>
+                </cbml:panel>
+                <cbml:panel n="9">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> GOOD STUUUFF! </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GACHANG </cbml:balloon>
+                    <desc>Ink spews from his mouth as he throws the pen aside</desc>
+                </cbml:panel>
+                <cbml:panel n="10">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> BUT I DON'T SEE IT! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> NOT EVEN IN THIS BAG! </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GACHANG </cbml:balloon>
+                    <desc>The boy's mouth is coated in ink</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/24"
+                xml:id="pg_24">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> AND SO... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> JYAWNEE... WHAT'S HIS NAME?
+                        JYAWNEE... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> JYAWNEE JYAWSHTER.......... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> SO HE'S THE ONE WHO 'HAS'
+                        IT... HE'S GOT IT SOMEWHERE... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid"> HE MUST BE HIDING IT
+                        SOMEWHERE ON HIS BODY... GACHANGE! </cbml:balloon>
+                    <desc>The boy leans over a bowl of water</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GWEEEE-GACHANG </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> GWEEEE-GACHANG </cbml:balloon>
+                    <desc>A zoom out of the boy. Gyro can be seen in the corner of the frame</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Gyro's feet hanging in the air</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Gyro is hung on a rock by his hair</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>A closeup of Gyro's face highlighting a wound in his chin</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>Blood drips from Gyro's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>Blood drips from Gyro's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <desc>Blood drips on Gyro's steel ball</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/25"
+                xml:id="pg_25">
+                <cbml:panel n="1">
+                    <desc>Gyro's steel ball with a drop of blood</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Gyro's steel ball with a drop of blood</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Gyro's steel ball with a drop of blood with Gyro's feet above it</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Johnny's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Johnny reaches into his pocket for one of Gyro's steel balls</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> GYRO ... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHERE ARE YOU, GYRO? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHERE DID YOU GO FROM HERE? </cbml:balloon>
+                    <desc>Johnny drops his Gyro's ball</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHERE EXACTLY IS THE ENEMY'S
+                        VANTAGE POINT? </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THERE MAY BE SOME DISTANCE,
+                        BUT THEY SHOULDN'T BE 'THAT' FAR AWAY. </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> GYRO IS PROBABLY ALIVE
+                        THERE... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> EVEN IF THE ENEMY'S PURPOSE IS
+                        TO FIND THE 'MUMMY' THAT THEY STILL HAVEN'T FOUND, IT WOULDN'T MAKE SENSE
+                        FOR THEM TO KILL HIM UNTIL THEY AT LEAST HAVE THE 'HAND' AND CAN CONFIRM
+                        THAT IT EXISTS. </cbml:balloon>
+                    <desc>Johnny peers out from the rock</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/26"
+                xml:id="pg_26">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I CAN'T BELIEVE THIS... HELP
+                        ME, GYRO... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I ONLY WANTED TO WIN THIS
+                        RACE... I ONLY WANTED TO KNOW THE SECRET OF YOUR 'STEEL BALLS' </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> BUT NOW, IF I STEP OUT OF THE
+                        ROCK SHELF... I'LL BE KILLED... </cbml:balloon>
+                    <desc>Johnny looks out from the rocky outcropping</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I CAN'T BELIEVE THAT THEY'RE
+                        AFTER ME... HELP ME... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHAT AM I SUPPOSED TO DO? </cbml:balloon>
+                    <desc>Johnny leans on his arm</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>A beetle approaches Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>A zoom on the beetle and Johnny's hand</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/27"
+                xml:id="pg_27">
+                <cbml:panel n="1">
+                    <desc>Johnny sceptically eyes the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THIS SPOT'S TAKEN... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> YOU'LL HAVE TO MAKE
+                        RESER-VATIONS </cbml:balloon>
+                    <desc>Johnny makes a motion toward the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> FOR ANOTHER TIME. </cbml:balloon>
+                    <desc>Johnny's fingers starting to form a flick</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny flicks the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HUH? </cbml:balloon>
+                    <desc>One of Wired's hooks lodges in Johnny's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>The hook is seen coming out of the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>The hook is seen coming out of the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <desc>Closeup on Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="9">
+                    <desc>The hook is seen coming out of the beetle</desc>
+                </cbml:panel>
+                <cbml:panel n="10">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AAAAAA! </cbml:balloon>
+                    <desc>Johnny is dragged by the hooks</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/28"
+                xml:id="pg_28">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> UWOO! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WHAAT! </cbml:balloon>
+                    <desc>Johnny attempts to grip the rock as the Wired attempts to pull him
+                        out</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> TH... THE HOOKS AREN'T ONLY
+                        FROM THE 'FEATHERS'... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> THIS... THIS ABILITY...
+                        'BAIT'!! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> E... EVEN LIVING INSECTS...? </cbml:balloon>
+                    <desc>The hook is imaplaed in Johnny's hand</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT'S A 'LURE'! </cbml:balloon>
+                    <desc>Johnny cries out as the hook continues to pull on his hand</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny uses his fingernails in attempt to slow Wired's pull</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/29"
+                xml:id="pg_29">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AAH! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> UWO! </cbml:balloon>
+                    <desc>Johnny's hand gets twisted as he contines to clutch onto the rock</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The hook continues to pull on Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I... I NEED TO REMOVE THIS
+                        HOOK! QUICK! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT'S PULLING ME OUT! AS SOON
+                        AS I'M DRAGGED OUT FROM ROCK, I'M DONE FOR! </cbml:balloon>
+                    <desc>The hook continues to pull on Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <desc>The hook is impaled in Johnny's hand as more beetles approach</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <desc>More beetles approach</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/30"
+                xml:id="pg_30">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> YOU HAVE TO BE KIDDING... </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Bug"> RUSTLE </cbml:balloon>
+                    <desc>A group of four beetles over look Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>The beetles crawl on Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> WAAAAAAAAAAAAAAAAAAA! </cbml:balloon>
+                    <desc>Another hook shoots out of the Beetles into Johnny's jaw</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> UGWAA! </cbml:balloon>
+                    <desc>The hooks pull Johnny upward</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> AAH!! </cbml:balloon>
+                    <desc>A closeup of Johnny's face with the wire slightly visible</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> BGWOH! </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT... </cbml:balloon>
+                    <desc>Johnny's hand being torn by the hooks</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> IT'S... OVER... </cbml:balloon>
+                    <desc>The mummified hand starts to emerge from Johnny's</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/31"
+                xml:id="pg_31">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> I CAN'T STAND IT ANYMORE! I'LL
+                        BE PULLED OUT, AND AS SOON AS THEY SEE I HAVE THE 'MUMMIFIED HAND', THEY'LL
+                        KILL ME! </cbml:balloon>
                     <cbml:balloon type="speech" who="Johnny Joestar">
-                        OOH!
-                    </cbml:balloon>
+                        TH... THEN FINE... I'LL... DRAG IT OUT... </cbml:balloon>
                     <cbml:balloon type="speech" who="Johnny Joestar">
-                        UWOOOOAH!!
-                    </cbml:balloon>
+                        IF YOU WANT IT SO BAD, I'LL GLADLY HAND IT OVER...! </cbml:balloon>
+                    <desc>Johnny continues to be dragged out by the hooks</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">IT'S NOT LIKE I GOT THIS BECAUSE I WANYED IT! THIS BIZZARE 'MUMMIFIED HAND'!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">I DON'T NEED IT! I'LL GIVE IT TO YOU, SO JUST TAKE IT!</cbml:balloon>
+                    <desc>Johnny continues to be dragged out by the hooks as the mummified hand continues to emerge</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>A pink creature begins to emerge from Johnny's arm</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/32"
+                xml:id="pg_32">
+                <cbml:panel n="1">
+                    <desc>A closeup on Johnny's eyes. He appears disstressed</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>A pink arm graps onto Johnny's arm</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>A closeup of the pink focusing on it's golden eye</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny's reaction as the pink creature emerges from his arm</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/33"
+                xml:id="pg_33">
+                <cbml:panel n="1">
+                    <desc>A full image of Tusk Act 1 as it fully emerges</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        ...... ......</cbml:balloon>
+                    <desc>Johnny stares at Tusk Act 1</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>A closeup on Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        ...... ......</cbml:balloon>
+                    <desc>Tusk Act 1 crawls on Johnny's arm</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/34"
+                xml:id="pg_34">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        ...... ......</cbml:balloon>
+                    <desc>Tusk Act 1 floats above Johnny's arm</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        WHISPER</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        WHISPER</cbml:balloon>
+                    <desc>Tusk Act 1 floats above Johnny's arm</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        Movere</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        crus</cbml:balloon>
+                    <desc>Tusk Act 1 floats Ttoward Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ............... WHAT? .....</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        OUT OF THE... MUMMY HAND.</cbml:balloon>
+                    <desc>Closeup of Johnny's eye</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        Movere</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        crus</cbml:balloon>
+                    <desc>Closeup of Tusk Act 1</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>Closeup of Johnny's eye</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/35"
+                xml:id="pg_35">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        CYHUMIIIN!</cbml:balloon>
+                    <desc>Tusk Act 1 jumps down Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HEY! WHAT IS THIS THING?!</cbml:balloon>
+                    <desc>Johnny's face. Blood pours from his wounds and mouth</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        WHISPER</cbml:balloon>
+                    <desc>Tusk Act 1 approaches Johnny's foot</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        Movere</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        crus</cbml:balloon>
+                    <desc>Tusk Act 1 approaches Johnny's foot</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        Movere</cbml:balloon>
+                    <desc>Tusk Act 1 approaches Johnny's foot</desc>
                 </cbml:panel>
                 </div>
-                <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/9" xml:id="pg_9">
+                <div type="page"
+                    facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/36"
+                    xml:id="pg_36">
                     <cbml:panel n="1">
-                        
+                        <desc>Tusk Act 1 causes Johnny's toenails to fire out from his feet</desc>
                     </cbml:panel>
+                </div>
+                <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/37"
+                xml:id="pg_37">
+                <cbml:panel n="1">
+                    <desc>Johnny's toenails burst through the rock</desc>
+                </cbml:panel>
                     <cbml:panel n="2">
-                        <cbml:balloon type="speech" who="Johnny Joestar">
-                            WHOAA!
-                        </cbml:balloon>
+                        <desc>Johnny's toenails head straight for Pork Pie Hat Kid's face</desc>
                     </cbml:panel>
                     <cbml:panel n="3">
-                        
+                        <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> UH! </cbml:balloon>
+                        <desc>A closeup of Pork Pie Hat Kid's eyeball</desc>
                     </cbml:panel>
                     <cbml:panel n="4">
-                        
+                        <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid"> UGEH! </cbml:balloon>
+                        <desc>The toenails nail him in the face, causing blood to spot from his face and Wired to be pull back through the bowl of water</desc>
                     </cbml:panel>
                     <cbml:panel n="5">
-                        
+                        <desc>Dust disapates from where Johnny attacked from</desc>
                     </cbml:panel>
                 </div>
-                <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/10" xml:id="pg_10">
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/38"
+                xml:id="pg_38">
+                <cbml:panel n="1">
+                    <desc>Dust disapates from where Johnny attacked from</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Dust disapates from where Johnny attacked from</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Tusk Act 1 reaches down</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <desc>Johnny's arm has repaired itself</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Johnny's shoes are ripped, now exposing his toes</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <desc>Johnny's face</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <desc>Johnny's shoes are ripped, now exposing his toes</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HAH</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        M...</cbml:balloon>
+                    <desc>Tusk Act 1 float above Johnny, it looks happy</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/39"
+                xml:id="pg_39">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        MY...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        NAILS...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THEY SHOT OUT... 'THIS POWER'...! FROM THESE LAME FEET!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THIS 'THING'...!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        DID 'IT' DO IT...?! WHAT DOES THIS MEAN? DID IT JUST SAVE ME FROM MY SITU-ATION?!.........</cbml:balloon>
+                    <desc>Tusk Act 1 float above Johnny</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        MY NAILS JUST SHOT OUT FROM MY LAME FEEEEEEEET!</cbml:balloon>
+                    <desc>Johnny screams in amazement</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>
+                        Johnny's toenails fire again
+                    </desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>The toenails fly off into the distance</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/40"
+                xml:id="pg_40">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        Movere</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        crus</cbml:balloon>
+                    <desc>Tusk Act 1 cutely hugs Johnny's wrist</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        WHAT THE HELL ARE YOU?!</cbml:balloon>
+                    <desc>Johnny screams</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        CHYUMI</cbml:balloon>
+                    <desc>Tusk Act 1 =waves</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        CHYUMIII...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Tusk Act 1">
+                        IIIIIII...</cbml:balloon>
+                    <desc>Tusk Act 1 taps Johnny's arm</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Johnny looks at Tusk Act 1</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <desc>Tusk Act 1 starts to move rapidly</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <desc>The letters 've' appear on Johnny's arm</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/41"
+                xml:id="pg_41">
+                <cbml:panel n="1">
+                    <desc>Tusk Act 1 carves 'moveer crus' into Johnny's arm</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>A closeup of Johnny's eye</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        HUH?!</cbml:balloon>
+                    <desc>Johnny looks at the text carved in his arm</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Johnny looks for Tusk Act 1 which has already dissappeared back into his hand</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        IT JUST WROTE SOMETHING!! ...AND WENT BACK INTO MY 'LEFT HAND'!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        JUST NOW!! IT HAS A WILL! THIS MUMMIFIED LEFT HAND HAS A CLEAR WILL OF ITS OWN!</cbml:balloon>
+                    <desc>Johnny grips his left hand</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/42"
+                xml:id="pg_42">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                       HAH</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        MY FEET AREN'T MOVING NOW... ONLY WHEN THEY 'SHOOT OUT' THE NAILS, THEY MOVE...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        DOES THIS MEAN...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ...THAT 'ENERGY' WAS TAKEN FROM MY BODY?... THROUGH THIS THING'S WILL...?</cbml:balloon>
+                    <desc>Johnny grips his left hand</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        AND WHAT IS THIS?</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        \THESE LETTERS... THEY'RE NOT ENGLISH...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        TOO MANY MYSTERIES...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THERE ARE TOO MANY MYSTERIES EVERYWHERE...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THE GOAL OF THE TERROR-ISTS...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        GYRO'S HOMELAND...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        AND THIS STEEL BALL RUN RACE...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        WHY HAS THIS THING COME TO ME?</cbml:balloon>
+                    <desc>Johnny eyes his arm. Behind him are portraits of Gyro, Tusk Act 1, Stroheim, Oyacomova, and Stephen Steel</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Johnny puts his head in his hand, blood seeps from his mouth</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        'Steel Ball Run Race'</cbml:balloon>
+                    <desc>Zoom in of previous panel</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/43"
+                xml:id="pg_43">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ...... ...... .......</cbml:balloon>
+                    <desc>Johnny stares at his hand</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THERE MUST BE MORE...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        NOT JUST THIS 'LEFT HAND'</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THERE HAVE TO BE OTHER PARTS</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ...'PARTS OF THIS MUMMY'S BODY...</cbml:balloon>
+                    <desc>Johnny crawls on the ground</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        AND IF YOU COMBINE THEM ALL, IT WILL PROBABLY BE A FULL BODY!</cbml:balloon>
+                    <desc>An image of the corpse put together</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/44"
+                xml:id="pg_44">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THE CORPSE OF 'SOMEBODY' HAS BEEN SCATTERED ACROSS THE LAND!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THEY'RE TRYING TO FIND THEM AND COMBINE THEM TOGETHER!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THAT'S THE GOAL OF THE TERRORISTS!</cbml:balloon>
+                    <desc>Various corpse parts strewn about an canyon</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ON THE SURFACE IT'S JUST A SPORT! BUT THE 'STEEL BALL RUN' IS ACTUALLY A CONSPIRACY TO COLLECT ALL THESE BODY PARTS!</cbml:balloon>
+                    <desc>White</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THESE POWER POSSESSSING CORPSE PARTS... WHAT WOULD HAPPEN IF THEY ALL CAME TOGETHER?</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        DID GYRO KNOW ABOUT THESE 'CORPSES'? DID HE JOIN THE RACE WITH THAT KNOWLEDGE?</cbml:balloon>
+                    <desc>Johnny gritting his teeth</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/45"
+                xml:id="pg_45">
+                <cbml:panel n="1">
+                    <desc>Johnny holds on of Gyro's steel balls as a second on appears on the horizon</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Closeup on the ball</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Closeup on the ball to show it spinning</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Zoom out on the ball</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        A 'STEEL BALL'...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THAT'S GYRO'S SECOND 'STEEL BALL'...</cbml:balloon>
+                    <desc>Johnny gripping the first steel ball</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        ...... ...... ......</cbml:balloon>
+                    <desc>Johnny looks up</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        KKH!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        DYAMMIT!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        W...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        ONE...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        TWO...</cbml:balloon>
+                    <desc>Pork Pie Hat Kid lays on the ground in pain</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/46"
+                xml:id="pg_46">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THREE OF 'EM</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THREE OF MY TEETH ARE BROKEN!</cbml:balloon>
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
+                        PRRRRRR GACHANGE</cbml:balloon>
+                    <desc>Pork Pie Hat Kid sits up, his face bloodied</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        I WONDER IF TEETH TASTE GOOD? I BET YOU CAN'T EAT 'EM...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        SHIT I DIDN'T KNOW HE HAD THAT KIND OF 'POWER'... THAT...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        WHAT'S HIS NAME? JYAWNEE JYAWSHTERR.......</cbml:balloon>
+                    <desc>Pork Pie Hat Kid, quite literally, licks his wounds</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        AND SO!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        I'VE FINSIHED 'LOOKING' FOR IT!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        NOW I HAVE TO SWIPE IT FROM HIM! AFTER I KILL HIM, THOUGH!</cbml:balloon>
+                    <desc>Pork Pie Hat Kid looks into the bowl of water</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        BUT NOW I KNOW WHERE HE'S HIDING IT...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        IT'S IN HIS 'LEFT HAND'!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        I CAUGHT A GLIMPSE OF IT FROM ABOVE! HE DIDN'T FIND IT; IT POSSESSED HIM!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THE 'CORPSE' IS IN JYAWNEE JYWASHTER'S ARM!</cbml:balloon>
+                    <desc>Pork Pie Hat Kid mischeviously look up</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Pork Pie Hat Kid peers into the bowl</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/47"
+                xml:id="pg_47">
+                <cbml:panel n="1">
+                    <desc>Destroyed rocks</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Destroyed rocks</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        HEY, HUH?</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THAT CREEP... WHERE IS HE? THAT'S... WEIRD...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        HE'S NOT AT THE ROCK!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        HE'S GOOONE!</cbml:balloon>
+                    <desc>Pork Pie Hat Kid screams</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Wired descends toward the destroyed rocks</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Wired descends toward the destroyed rocks</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/48"
+                xml:id="pg_48">
+                <cbml:panel n="1">
+                    <desc>Wired descends toward the destroyed rocks</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        HEY...?!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        WHAT IS THIS?... WHERE IS HE?!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        HE DISAP-PEARED... WHERE DID HE GO?</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THAT'S CRAZY! EVEN IF HE RAN, HE WOULDN'T GET FAR FROM THE...</cbml:balloon>
+                    <desc>Pork Pie Hat Kid looks through the bowl</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <desc>Intense zoom on Pork Pie Hat Kid's eyes</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Wired descends toward a line in the sand</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        ...... ......</cbml:balloon>
+                    <desc>The line is revealed to have been caused by Gyro's second ball</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/49"
+                xml:id="pg_49">
+                <cbml:panel n="1">
+                    <desc>Pork Pie Hat Kid looks back</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        MISTER...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        ...... ......</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        YOU AWAKE?</cbml:balloon>
+                    <desc>Gyro is hanging on the corner of the frame</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Wired smacks Gyro</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Gyro Zeppeli">
+                        GHA! GH...</cbml:balloon>
+                    <desc>Gyro in pain</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/50"
+                xml:id="pg_50">
+                <cbml:panel n="1">
+                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
+                        GWEEEE GACHANG!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        YOU USED YOUR LEGS?</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        YOU THREW YOUR 'STEEL BALL' INTO MY PLATE DURING ALL THE EXCITEMENT, HUH?</cbml:balloon>
+                    <desc>Pork Pie Hat Kid looks at Gyro</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        ...... ......</cbml:balloon>
+                    <desc>Pork Pie Hat Kid turns toward a rock in the distance</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <desc>Pork Pie Hat Kid saunters on top of a rock</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                            BUT HEY, THIS IS FUN!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THESE GUYS ARE TOO FUN!!</cbml:balloon>
+                    <desc>Pork Pie Hat Kid stands</desc>
+                </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/51"
+                xml:id="pg_51">
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THE SPIN OF THE 'STEEL BALL'... THERE'S TWO WAYS TO THINK OF IT...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        THAT YOU TOLD JYOSHTER TO RUN IN THE OPPOSITE DIRECTION!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        OR ELSE...</cbml:balloon>
+                    <desc>Pork Pie Hat Kid looks over a hill while Gyro hangs</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        YOU TOLD HIM TO 'HEAD TOWARDS' THIS DIRECTION!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        VEEEERY INTEREST-ING...</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        I'LL LET YOU LIVE, GYRO ZEPPELI.</cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
+                        BUT ONLY UNTIL I FIND WHERE JYAWNEE JYOSHTER IS...</cbml:balloon>
+                    <desc>Pork Pie Hat Kid looks at the reader</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Gyro's ball in the sand</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Gyro's ball</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ONE THING... </cbml:balloon>
+                    <desc>Gyro's ball</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Johnny Joestar"> JUST ONE THING... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> ...IS CLEAR... </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar"> HAH </cbml:balloon>
+                    <desc>Gyro's ball</desc>
+                </cbml:panel>
+                </div>
+                <div type="page"
+                    facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/51"
+                    xml:id="pg_52">
                     <cbml:panel n="1">
                         <cbml:balloon type="speech" who="Johnny Joestar">
-                            ...... ...... ......
-                        </cbml:balloon>
+                            WHOEVER GYRO IS, AND WHATEVER KIND OF ORDERS HE HAD RECEIVED FROM HIS HOMELAND...</cbml:balloon>
+                        <cbml:balloon type="speech" who="Johnny Joestar">
+                            HE'S A GOOD PERSON...</cbml:balloon>
+                        <cbml:balloon type="speech" who="Johnny Joestar">
+                            IT'S CLEAR NOW THAT THAT WILL NEVER CHANGE.</cbml:balloon>
+                        <desc>Gyro's ball</desc>
                     </cbml:panel>
                     <cbml:panel n="2">
                         <cbml:balloon type="speech" who="Johnny Joestar">
-                            MY STUFF WENT INTO THE FEATHER!
-                        </cbml:balloon>
+                            GYRO SHOWED ME THE DIRECTION OF THE 'ENEMY' WITH THE STEEL BALL.</cbml:balloon>
                         <cbml:balloon type="speech" who="Johnny Joestar">
-                            'A STAND ABILITY'
-                        </cbml:balloon>
+                            IT MUST HAVE BEEN A DESPERATE MOVE.</cbml:balloon>
                         <cbml:balloon type="speech" who="Johnny Joestar">
-                            THROUGH THE FEATHER?! DOES IT CONNECT TO A DIFFERENT DIMENSION?! 'GYRO' AND THE 'HORSE' WERE CAUGHT BY THAT 'HOOK' AND PULLED IN THERE!
-                        </cbml:balloon>
+                            AND OF COURSE I COULD CHOOSE TO RUN.</cbml:balloon>
+                        <cbml:balloon type="speech" who="Johnny Joestar">
+                            HE WAS TRYING TO SAVE ME...</cbml:balloon>
+                        <desc>A pile of sand</desc>
                     </cbml:panel>
                     <cbml:panel n="3">
-                        
+                        <desc>An eye in the sand</desc>
                     </cbml:panel>
                     <cbml:panel n="4">
-                        
+                        <cbml:balloon type="speech" who="Johnny Joestar">
+                            BUT I WILL NEVER HAND OVER THIS 'CORPSE'!</cbml:balloon>
+                        <desc>Johnny in the sand</desc>
                     </cbml:panel>
-                </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/11" xml:id="pg_11">
+                    <cbml:panel n="5">
+                        <desc>Johnny buried in the sand</desc>
+                    </cbml:panel>
+            </div>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/51"
+                xml:id="pg_53">
                 <cbml:panel n="1">
-                    
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        THIS HAS BECOME MY HOPE!</cbml:balloon>
+                    <desc>Johnny's fingernails firing</desc>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        AND GYRO HAS GIVEN ME THE COURAGE TO PUSH FORWARD IN THIS CRISIS</cbml:balloon>
+                    <desc>Johnny's fingernails firing</desc>
                 </cbml:panel>
                 <cbml:panel n="3">
                     <cbml:balloon type="speech" who="Johnny Joestar">
-                        THERE WASN'T JUST ONE FEATHER! NOW THERE'S TWO HOOKS! FROM TWO DIFFERENT FEATHERS!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
+                        NOW I KNOW YOUR LOCATION! GYRO!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        I'M HEADING TOWARDS THAT ROCK MOUNTAIN!</cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny Joestar">
+                        WE'RE TOGETHER IN THIS RACE! AND WE'LL COLLECT THE REST OF THE CORPSE PARTS!</cbml:balloon>
+                    <desc>Johnny's swimming in the sand</desc>
                 </cbml:panel>
             </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/12" xml:id="pg_12">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT'S AFTER ME!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THE ENEMY WILL TRY TO HOOK ME IF IT'S THE LAST THING THEY DO!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        A ROCK SHELF!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THERE'S SOME EMPTY SPACE UNDER THAT ROCK! I NEED TO GET THERE!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I JUST NEED TO HIDE UNDER THAT THERE!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/13" xml:id="pg_13">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/14" xml:id="pg_14">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAAH!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/14" xml:id="pg_14">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/14" xml:id="pg_14">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/15" xml:id="pg_15">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAAH!
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/17" xml:id="pg_17">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ABOVE!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THE ENEMY IS ABOVE THIS ROCK?
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHING
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...AND IT SEEMS LIKE THEY WOULD KILL ME WITHOUT HESITATION...!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        B... BUT... WHAT WOULD THEY GAIN FROM ATTACKING ME?!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THEY HAVE MY HORSE! IF MY HORSE DIES, I'M OUT OF THE RACE! MY BAGGAGE! MY SADDLE!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ......... ......... .........
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/18" xml:id="pg_18">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...... ......
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        !!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THE 'BAGGAGE'... EVEN GYRO'S 'BAGGAGE'... AND HIS 'HORSE'... 
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ..................!! 
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        COULD IT BE...?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...THAT... THIS 'ENEMY'...!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...IS 'SEARCHING' FOR SOME-THING...? IS THAT THEIR GOAL...?!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ....... ...... 
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        SEARCHING-------------------!?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        DID THE 'ENEMY' FOLLOW US SEARCHING FOR 'IT'?!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I SAW IT ONLY FOR A SLIGHT MOMENT!... AND IT WENT INTO MY 'LEFT HAND'! I THOUGH I WAS HALLUCINATING...
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="7">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THAT 'LEFT HAND' LOOKED LIKE IT WAS MUMMIFIED...! I 'FOUND' IT EVEN BEFORE I TOOK NOTICE OF IT... OR, IT CAME TO ME... (IS IT STILL IN MY ARM NOW?)...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IS 'THAT' IT?!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="8">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I'M STARTING TO UNDERSTAND THE GOAL THE 'ENEMT'... AT FIRST THEY ATTACKED GYRO, THINKING IT WAS SOMETHING HE HAD WITH HIM...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THEN THEY STOLE HIS LUGGAGE AND HORSE, IN THAT ORDER...! SINCE THEY COULDN'T FIND IT, THEY'RE ATTACKING ME NOW!
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/19" xml:id="pg_19">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        ...THEY THOUGHT THAT IT WAS SOMETHING WE WERE HIDNG!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        EVEN OYECOMOVA! AND STROHEIM! THEY WERE AFTER THIS ALL ALONG!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THIS IS THE TERRORISTS' TRUE GOAL DURING THE RACE!... I HAD NO CLUE, BUT THEY WERE AFTER THE 'MUMMIFIED ARM'!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        BUT WHAT IS IT? THAT MUMMY! 'WHOSE ARM' IS IT?!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/20" xml:id="pg_20">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/21" xml:id="pg_21">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        PRRRRRR PRRRR PRR...
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        PRRRRR PRRR PR...
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="sound-effect" who="Wired">
-                        KA-CHAANG
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        GWEEEEE-GACHANG!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        GWEEEEE-GACHANG!
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/22" xml:id="pg_22">
-                <cbml:panel n="1">
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        PRRRRR RRRMZ-
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        SHANK
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        HEY!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        HEY!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-                <cbml:panel n="6">
-                    
-                </cbml:panel>
-                <cbml:panel n="7">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        CLANK CLANK
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        CLUNK CLUNK
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="8">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/23" xml:id="pg_23">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        ... ... 
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        ...... ....?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        ?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        SNIFF SNIFF 
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        SNIFF
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        !!
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pen">
-                        DRIP 
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pen">
-                        DROP
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="sound-effect" who="Pen">
-                        DRIP 
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pen">
-                        DROP
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    
-                </cbml:panel>
-                <cbml:panel n="7">
-                    
-                </cbml:panel>
-                <cbml:panel n="8">
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        SLURP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        SLURP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        SLURP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GULP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GULP
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="9">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        GOOD STUUUFF!
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GACHANG
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="10">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        BUT I DON'T SEE IT!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        NOT EVEN IN THIS BAG!
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GACHANG
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/24" xml:id="pg_24">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        AND SO...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        JYAWNEE... WHAT'S HIS NAME? JYAWNEE...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        JYAWNEE JYAWSHTER..........
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        SO HE'S THE ONE WHO 'HAS' IT... HE'S GOT IT SOMEWHERE...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Pork Pie Hat Kid">
-                        HE MUST BE HIDING IT SOMEWHERE ON HIS BODY... GACHANGE!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GWEEEE-GACHANG
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Pork Pie Hat Kid">
-                        GWEEEE-GACHANG
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    
-                </cbml:panel>
-                <cbml:panel n="6">
-                    
-                </cbml:panel>
-                <cbml:panel n="7">
-                    
-                </cbml:panel>
-                <cbml:panel n="8">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/25" xml:id="pg_25">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        GYRO ...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHERE ARE YOU, GYRO?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHERE DID YOU GO FROM HERE?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="7">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHERE EXACTLY IS THE ENEMY'S VANTAGE POINT?
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THERE MAY BE SOME DISTANCE, BUT THEY SHOULDN'T BE 'THAT' FAR AWAY.
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        GYRO IS PROBABLY ALIVE THERE...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        EVEN IF THE ENEMY'S PURPOSE IS TO FIND THE 'MUMMY' THAT THEY STILL HAVEN'T FOUND, IT WOULDN'T MAKE SENSE FOR THEM TO KILL HIM UNTIL THEY AT LEAST HAVE THE 'HAND' AND CAN CONFIRM THAT IT EXISTS.
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/26" xml:id="pg_26">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I CAN'T BELIEVE THIS... HELP ME, GYRO...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I ONLY WANTED TO WIN THIS RACE... I ONLY WANTED TO KNOW THE SECRET OF YOUR 'STEEL BALLS'
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        BUT NOW, IF I STEP OUT OF THE ROCK SHELF... I'LL BE KILLED...
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I CAN'T BELIEVE THAT THEY'RE AFTER ME... HELP ME...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHAT AM I SUPPOSED TO DO?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HAH
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/27" xml:id="pg_27">
-                <cbml:panel n="1">
-                    
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THIS SPOT'S TAKEN...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        YOU'LL HAVE TO MAKE RESER-VATIONS
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        FOR ANOTHER TIME.
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        HUH?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    
-                </cbml:panel>
-                <cbml:panel n="7">
-                    
-                </cbml:panel>
-                <cbml:panel n="8">
-                    
-                </cbml:panel>
-                <cbml:panel n="9">
-                    
-                </cbml:panel>
-                <cbml:panel n="10">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAAAAA!
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/28" xml:id="pg_28">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        UWOO!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WHAAT!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        TH... THE HOOKS AREN'T ONLY FROM THE 'FEATHERS'...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        THIS... THIS ABILITY... 'BAIT'!!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        E... EVEN LIVING INSECTS...?
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT'S A 'LURE'!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/29" xml:id="pg_29">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAH!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        UWO!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        I... I NEED TO REMOVE THIS HOOK! QUICK!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT'S PULLING ME OUT! AS SOON AS I'M DRAGGED OUT FROM ROCK, I'M DONE FOR!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="sound-effect" who="Bug">
-                          RUSTLE
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Bug">
-                        RUSTLE
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="sound-effect" who="Bug">
-                        RUSTLE
-                    </cbml:balloon>
-                </cbml:panel>
-            </div>
-            <div type="page" facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/30" xml:id="pg_30">
-                <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        YOU HAVE TO BE KIDDING...
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Bug">
-                        RUSTLE
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Bug">
-                        RUSTLE
-                    </cbml:balloon>
-                    <cbml:balloon type="sound-effect" who="Bug">
-                        RUSTLE
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
-                    
-                </cbml:panel>
-                <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        WAAAAAAAAAAAAAAAAAAA!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="4">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        UGWAA!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="5">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        AAH!!
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        BGWOH!
-                    </cbml:balloon>
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT...
-                    </cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="7">
-                    <cbml:balloon type="speech" who="Johnny Joestar">
-                        IT'S... OVER...
-                    </cbml:balloon>
-                </cbml:panel>
+            <div type="page"
+                facs="https://mangadex.org/chapter/df56f492-f497-4f65-984f-1ed08b30f669/51"
+                xml:id="pg_54">
+                <p>Jojo's Colored Adventure Team Proudly Presents,</p>
+                <p>Jojo's Bizzare Adventure Part 7: Steel Ball Run</p>
+                <p>CHAPTER 26</p>
+                <p>Translation: Ack44</p>
+                <p>Cleaning: Bracketier</p>
+                <p>Typesetting: Bracketier</p>
+                <p>Quality Control: Huldra, Tonio</p>
             </div>
         </body>
     </text>
