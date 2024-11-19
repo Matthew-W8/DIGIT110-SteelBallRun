@@ -882,14 +882,146 @@
             </div>
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/28" xml:id="pg_28">
                 <cbml:panel n="1">
-                    
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <sound></sound>
+                    <desc>Steven gets up from his seat</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>He walks to the other window.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">A 'corpse' for example...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">There is a possibility that Gyro Zeppeli found a human 'corpse' in that 'land'.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">Look into it.</said>
+                    </cbml:balloon>
+                    <desc>Steven has his hands together and is looking back over to his butler.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <desc>Butler stands where he is stunned.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Steven looks out of the window</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="Mrl. Steel's Butler">
+                        <said aloud="true">E... Excuse me, could you repeat yourself?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">Have the balloons catch up to him and investigate.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">But it may only be part of the 'corpse' aucj as an 'arm' or a 'leg'</said>
+                        <desc>Butler asks nervously as Steven continues to looks out the window.</desc>
+                    </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/29" xml:id="pg_29">
-                
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">This 'corpse' is supposedly 'mummified'</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">See if Gyro Zeppel is carrying it on him while racing.</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">He may be hiding it in a bag or somewhere on his horse.</said>
+                    </cbml:balloon>
+                    <desc>Steven looks back at his butler.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">... I...</said>
+                    </cbml:balloon>
+                    <desc>Butler doesn't know what to say.</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">I'm just surprised at you suddenly mentioning this...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="=Mr. Steel's Butler">
+                        <said aloud="true">This 'corpse'</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="false">...... ......</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Mr. Steel outside of successfully completing this cross-continental competition...</said>
+                    </cbml:balloon>
+                    <desc>Steven looks back out the window. Butler has his hand on his cheek.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Does this race have a different 'purpose'?</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">And this 'corpse'</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Whose 'corpse' is it?</said>
+                    </cbml:balloon>
+                    <desc>Butler starts to sweat.</desc>
+                </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/30" xml:id="pg_30">
-                
+                <cbml:panel n="1">
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">I say this without a doubt! We shall make this 'Steel Ball Run' race successful!</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true"><hi rendition="#b">That is the only purpose!</hi></said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Steven Steel">
+                        <said aloud="true">But right now we need an investigation...
+                        An investigation of Gyro...</said>
+                    </cbml:balloon>
+                    <desc>Steven looks back at his butler.</desc>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <desc>Butler bows</desc>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="Mr. Steel's Butler">
+                        <said aloud="true">Yes, sir.</said>
+                    </cbml:balloon>
+                    <desc>Butler leaves the room.</desc>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <sound></sound>
+                    <desc>Steven pulls his chair closer to the window.</desc>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <desc>Over the shoulder view of the curtains behind Steven.</desc>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <sound></sound>
+                    <desc>A match is light in the crack of the curtain.</desc>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <sound></sound>
+                    <desc>The match lights a pipe</desc>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="speech" who="?">
+                        <said aloud="true">Your conversation Mr. Steel...</said>
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="?">
+                        <said aloud="true">Allow me to make one correction...</said>
+                    </cbml:balloon>
+                    <desc>Steven looks over his shoulder. There is a man in a pink suit and long blonde hair.</desc>
+                    <cbml:panel n="9">
+                        <desc>Steven's face</desc>
+                    </cbml:panel>
+                </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/1f0dd1b2-50d7-43bf-8721-b35c6685c55c/31" xml:id="pg_31">
                 
