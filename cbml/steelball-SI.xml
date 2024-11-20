@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Steel Ball Run Characters and Music Site Index</title>
+            <editor>Harry Bartolotti</editor>
+            <editor>Matthew Wilpula</editor>
+            <editor>Connor Carpenter</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>born digital to accompany the DIGIT 110 Steel Ball Run CBML Project.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information developed from character names and music associations in the Steel Ball Run manga</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+       <div type="characters">
+          <listPerson sortKey="historical">
+             <person xml:id="Antony" sex="m">
+                <persName>Mark Antony</persName>
+                <persName>Marcus Antonius</persName>
+                <persName type="alias">Ol Marco
+                    <roleName>Arch Organizer of all Knowledge and Power in the Classical Age</roleName>
+                </persName><!--ebb: CAUTION: That is fake, just for an example of how to encode an alias ! -->
+               
+             <!-- The rest of this is optional if you wish
+                <birth when="-0083">
+                   <placeName>Rome</placeName>
+                </birth>
+                <death when="-0030">
+                   <placeName>Alexandria, Ptolemaic Egypt</placeName>
+                </death>
+                <note resp="#jap">Historic figure rendered as the famous persuasive speaker in Shakespeare's play <title ref="#Julius_Caesar_play">Julius Caesar</title>, in which the character gives the speech beginning, <quote>Friends, Romans, countrymen, lend me your ears</quote>.</note>
+                <note>
+                   <ref target="http://viaf.org/viaf/88759462/"/>
+                </note>-->
+             </person>
+             
+             
+          </listPerson>
+          
+          
+         <listPerson sortKey="fictional">
+            <person corresp="#Killer-song" xml:id="Killer" sex="u"><!-- sex attribute is optional -->
+               <persName>Killer</persName>
+            </person>
+            <person xml:id="Pygmalion" sex="m">
+             <persName>Pygmalion</persName>
+             <note resp="#lmw">Mitford generally refers to the version of the myth from
+                <persName ref="#Ovid">Ovid</persName>’s <title ref="#Metamorphoses">Metamorphoses</title> in which Pygmalion is a sculptor who carves a female
+                statue out of ivory, falls in love with the statue, and Aphrodite brings the
+                statue to life.</note>
+          </person>
+         </listPerson>
+          
+          
+       </div>
+       
+       <div type="music">
+          <bibl xml:id="Abbot_WS">
+             <title level="m">The Abbot</title>
+             <author ref="#Scott_Wal">Walter Scott</author>
+             <pubPlace>
+                <placeName ref="#London_city">London</placeName>
+             </pubPlace>
+             <publisher ref="#Longman_Hurst_ROB_pub">Longman, Hurst, Rees, Orme, and Brown</publisher>
+             <pubPlace ref="#Edinburgh">Edinburgh</pubPlace>
+             <publisher ref="#Constable_pub">Archibald Constable and Company, and John Ballantyne</publisher>
+             <date when="1820">1820</date>
+             <note resp="#ebb">Historical novel: One of Scott’s series of <title level="s">Tales from Benedictine Sources</title>, <title level="m">The Abbot</title> introduces
+                the character <persName>Roland Graeme</persName>, and renders <rs type="event">the experiences of <persName ref="#MaryQoS">Mary, Queen of Scots</persName>
+                   during her imprisonment and escape from <placeName>Loch Leven
+                      Castle</placeName> in <date when="1567">1567</date>
+                </rs>.</note>
+          </bibl>
+          
+          <bibl xml:id="Killer-song">
+             <title type="song">Killer</title>
+             <title type="album">Killer Queen</title>
+             <author>Freddy Mercury</author>
+             <publisher><!--Studio producer here --></publisher>
+             <date when="1986-01"/><!-- This is NOT the real date. Look this up -->
+          </bibl>
+          
+          
+       </div>
+
+      </body>
+   </text>
+</TEI>
