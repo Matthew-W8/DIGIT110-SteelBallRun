@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
-    xmlns="http://www.w3.org/1999/xhtml">
-    
+    xmlns="http://www.w3.org/1999/xhtml"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
         include-content-type="no" indent="yes"/>
-    <xsl:template match="body">
+    <xsl:template match="/">
         <html>
             <head>
                 <title>Jojo's Bizzare Adventure: Steel Ball Run CBML Project</title>
@@ -24,16 +24,17 @@
                         <li><a href="chapter27.html">Chapter 27</a></li>
                     </ul>
                 </nav>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="body"/>
+                <footer>
+                    <p>Source: <a href="https://mangadex.org/title/b30dfee3-9d1d-4e8d-bfbe-8fcabc3c96f6/jojo-s-bizarre-adventure-part-7-steel-ball-run?order=asc">MangaDex</a></p>
+                </footer>
               </body>
         </html>
-        <xsl:template match="div">
-            <h2>Page </h2>
-            <!--Here I was tyring to output the number but I'm not sure how you would do that with viewable text -Matt W -->
-        </xsl:template>
-        <xsl:template match="cbml:balloon">
-            <p><xsl:apply-templates/></p>
-            <!-- I think it would be intresting to put who is saying to it before the text, but again I'm not quite sure how to do it.-->
-        </xsl:template>
     </xsl:template>
-</xsl:stylesheet>
+    <xsl:template match="body">
+        
+    </xsl:template>
+    <xsl:template match="cbml:balloon">
+        <p><span class="{@who => normalize-space()}" type="{@type => normalize-space()}"><xsl:apply-templates select="@who"/>: </span></p>
+    </xsl:template>
+    </xsl:stylesheet>

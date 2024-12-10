@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema/steelball.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -147,6 +148,72 @@
                     <cbml:balloon type="sound">BRRRRRRURRR
                     </cbml:balloon>
                     <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/11" xml:id="pg_11">
+                <cbml:panel n="11">
+                    <cbml:balloon type="sound">BHAAA
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">That's my horse?! Huh?! What?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Alri--ght! It started moving!!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">GWEEEEGACHANG! Horses are obedient and senstitive! They'll return to their masters by smelling and listening for their breaths!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">You can have your beloved horse that you've traveled with through this harsh race!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">I'll give it back to you, Jyoshterrr!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/12" xml:id="pg_12">
+                <cbml:panel n="12">
+                    <cbml:balloon type="speech">Is...is she?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">What's she doing?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Ha
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Haa
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Wha...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">Hmm, that direction, I see. So he was heading this way.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech">WHAAAT?!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
                     </cbml:balloon>
                 </cbml:panel>
             </div>
