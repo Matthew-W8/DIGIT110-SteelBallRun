@@ -22,9 +22,10 @@
                         <li><a href="chapter25.html">Chapter 25</a></li>
                         <li><a href="chapter26.html">Chapter 26</a></li>
                         <li><a href="chapter27.html">Chapter 27</a></li>
+                        <li><a href="characters.html">Characters</a></li>
                     </ul>
                 </nav>
-                <xsl:apply-templates select="body"/>
+                <xsl:apply-templates select="descendant::body"/>
                 <footer>
                     <p>Source: <a href="https://mangadex.org/title/b30dfee3-9d1d-4e8d-bfbe-8fcabc3c96f6/jojo-s-bizarre-adventure-part-7-steel-ball-run?order=asc">MangaDex</a></p>
                 </footer>
@@ -32,9 +33,23 @@
         </html>
     </xsl:template>
     <xsl:template match="body">
-        
+        <xsl:apply-templates select="descendant::div"/>
+    </xsl:template>
+    <xsl:template match="div">
+        <div class="page">
+            <h2><xsl:apply-templates select="@xml:id"/></h2>
+            <xsl:apply-templates select="descendant::cbml:panel"/>
+        </div>
+    </xsl:template>
+    <xsl:template match="cbml:panel">
+        <div class="panel"><xsl:apply-templates select="descendant::cbml:balloon"/><p class="desc">*<xsl:apply-templates select="descendant::desc"/>*</p></div>
     </xsl:template>
     <xsl:template match="cbml:balloon">
-        <p><span class="{@who => normalize-space()}" type="{@type => normalize-space()}"><xsl:apply-templates select="@who"/>: </span></p>
+       <!-- <xsl:choose>
+            <xsl:when test="@type = sound-effect"><p><span class="{@who => normalize-space()}" "{@type => normalize-space()}"><xsl:apply-templates select="@who"/>: </span>*<xsl:apply-templates/>*</p></xsl:when> -->
+      <!--  <xsl:otherwise> -->
+        <p><span class="{@who => normalize-space() => translate(' ', '')}"><xsl:apply-templates select="@who"/>: </span><xsl:apply-templates/></p>
+        <!-- </xsl:otherwise> -->
+       <!-- </xsl:choose> -->
     </xsl:template>
     </xsl:stylesheet>

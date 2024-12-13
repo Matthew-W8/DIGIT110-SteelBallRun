@@ -1,3 +1,4 @@
+/* Page Css */
 * {margin: 0%; padding: 0%}
 body {
     margin: auto;
@@ -15,7 +16,7 @@ h1 {
  }
  
  nav ul li {
-    width: 23%;
+    width: 18%;
     float: left;
     text-align: center;
      background-color: #f0a8e9;
@@ -35,4 +36,58 @@ footer {
     text-align: center;
     background-color: #f0a8e9;
     clear: both;
+}
+/* Pages Css */
+div.page {
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background: #67afdb;
+    width: 90%;
+    border: 3px solid #9f02ba;
+}
+
+div.page h2 {
+    padding-left: 2%;
+}
+
+div.panel {
+    margin: auto;
+    background: #eff0af;
+    border: 2px solid #d4d647;
+    margin: 2%;
+    padding: 1%;
+}
+
+p {
+    padding: 0.5%;
+}
+
+p.desc {
+    text-align: center;
+}
+
+/* Text Css */
+span.JohnnyJoestar {
+    color: #cc04c2;
+}
+
+span.FunnyValentine {
+    color: #ede88e;
+}
+
+span.Wired {
+    color: #a1a1a1;
+}
+
+span.PorkPieHatKid {
+    color: #6cd904;
+}
+
+span.TuskAct1 {
+    color: #c204db;
+}
+
+span.GyroZeppeli {
+    color: #02bd24;
 }
