@@ -27,9 +27,21 @@ h1 {
   nav ul li a {
      display: block;
  }
+ 
+ div.members {
+     width: 20%;
+ }
+ 
+ div.goal {
+     width: 80%;
+ }
 
 ol {
     float: left;
+}
+
+ol li {
+    margin-left: 15%;
 }
 
 footer {

@@ -22,7 +22,7 @@
                         <li><a href="chapter25.html">Chapter 25</a></li>
                         <li><a href="chapter26.html">Chapter 26</a></li>
                         <li><a href="chapter27.html">Chapter 27</a></li>
-                        <li><a href="characters.html">Characters</a></li>
+                        <li><a href="Characters.html">Characters</a></li>
                     </ul>
                 </nav>
                 <xsl:apply-templates select="descendant::body"/>
