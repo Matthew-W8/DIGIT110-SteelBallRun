@@ -29,11 +29,35 @@ h1 {
  }
  
  div.members {
-     width: 20%;
+    padding-top: 1.5%;
+     width: 40%;
+     padding: 2%;
+ }
+ 
+ ol {
+    padding-top: 2%;
+    padding-bottom: 2%;
+ }
+ 
+ ol li {
+     padding: 1.5%;
  }
  
  div.goal {
-     width: 80%;
+    float: right;
+     width: 55%;
+ }
+ 
+ div.explain {
+    padding-top: 2.5%;
+     float: right;
+     width: 55%;
+ }
+ 
+ div.documentation {
+     float: left;
+     width: 96%;
+     padding: 2%;
  }
 
 ol {
