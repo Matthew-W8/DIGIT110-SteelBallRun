@@ -27,7 +27,7 @@
                 </nav>
                 <xsl:apply-templates select="descendant::body"/>
                 <footer>
-                    <p>Source: <a href="https://mangadex.org/title/b30dfee3-9d1d-4e8d-bfbe-8fcabc3c96f6/jojo-s-bizarre-adventure-part-7-steel-ball-run?order=asc">MangaDex</a></p>
+                    <p>Source: <a href="https://mangadex.org/title/b30dfee3-9d1d-4e8d-bfbe-8fcabc3c96f6/jojo-s-bizarre-adventure-part-7-steel-ball-run?order=asc">MangaDex</a> CC-BY <img src="images/by.png" width="40"/></p>
                 </footer>
               </body>
         </html>
