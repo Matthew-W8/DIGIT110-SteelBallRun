@@ -69,67 +69,67 @@
                     </cbml:balloon>
                     <cbml:balloon type="speech">..........
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Ha
+                    <cbml:balloon type="speech" who="Johnny">Ha
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Ha
+                    <cbml:balloon type="speech" who="Johnny">Ha
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Hah
+                    <cbml:balloon type="speech" who="Johnny">Hah
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Ah
+                    <cbml:balloon type="speech" who="Johnny">Ah
                     </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/6" xml:id="pg_6">
                 <cbml:panel n="6">
-                    <cbml:balloon type="sound">GACHANG..GEEEEEE GOGIGUGAAA SLURP SLURP
+                    <cbml:balloon type="sound" who="Pork Pie">GACHANG..GEEEEEE GOGIGUGAAA SLURP SLURP
                     </cbml:balloon>
-                    <cbml:balloon type="sound">GWEEEEE
+                    <cbml:balloon type="sound" who="Pork Pie">GWEEEEE
                     </cbml:balloon>
-                    <cbml:balloon type="sound">PRRRRRRYY
+                    <cbml:balloon type="sound" who="Pork Pie">PRRRRRRYY
                     </cbml:balloon>
-                    <cbml:balloon type="sound">PRRRRRR
+                    <cbml:balloon type="sound" who="Pork Pie">PRRRRRR
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Wh... Where is he? Dyam!
+                    <cbml:balloon type="speech" who="Pork Pie">Wh... Where is he? Dyam!
                     </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/7" xml:id="pg_7">
                 <cbml:panel n="7">
-                    <cbml:balloon type="speech">That creep! Where'd he gooooo! I'll kill him!
+                    <cbml:balloon type="speech" who="Pork Pie">That creep! Where'd he gooooo! I'll kill him!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Jyoshterrr! I'll tear you apart like a spitchcock and kill you for sure!!
+                    <cbml:balloon type="speech" who="Pork Pie">Jyoshterrr! I'll tear you apart like a spitchcock and kill you for sure!!
                     </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/8" xml:id="pg_8">
                 <cbml:panel n="8">
-                    <cbml:balloon type="speech">Did I...! Did I lose him...? Is he underground? ...He's hiding somewhere, that's for sure...
+                    <cbml:balloon type="speech" who="Pork Pie">Did I...! Did I lose him...? Is he underground? ...He's hiding somewhere, that's for sure...
                     </cbml:balloon>
-                    <cbml:balloon type="speech">...But say... This is fucking fun... But so terrible at the same time.
+                    <cbml:balloon type="speech" who="Pork Pie">...But say... This is fucking fun... But so terrible at the same time.
                     </cbml:balloon>
-                    <cbml:balloon type="speech">I'VE GOT NO CLUE!
+                    <cbml:balloon type="speech" who="Pork Pie">I'VE GOT NO CLUE!
                     </cbml:balloon>
-                    <cbml:balloon type="sound">GWEEEEEWEEE
+                    <cbml:balloon type="sound" who="Pork Pie">GWEEEEEWEEE
                     </cbml:balloon>
-                    <cbml:balloon type="speech">I've got a feeling that he's coming towards this place... But then again, he could be escaping that way through the desert...
+                    <cbml:balloon type="speech" who="Pork Pie">I've got a feeling that he's coming towards this place... But then again, he could be escaping that way through the desert...
                     </cbml:balloon>
-                    <cbml:balloon type="speech">I have no idea how he's doing it! That shmuck!
+                    <cbml:balloon type="speech" who="Pork Pie">I have no idea how he's doing it! That shmuck!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Man...! I'm almost there............. Just one more step to finish him and get the "corpse"...
+                    <cbml:balloon type="speech" who="Pork Pie">Man...! I'm almost there............. Just one more step to finish him and get the "corpse"...
                     </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/9" xml:id="pg_9">
                 <cbml:panel n="9">
-                    <cbml:balloon type="speech">It seems like the "enemy" can only see and attack from above...
+                    <cbml:balloon type="speech" who="Johnny">It seems like the "enemy" can only see and attack from above...
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Only about 500m to that mountain....
+                    <cbml:balloon type="speech" who="Johnny">Only about 500m to that mountain....
                     </cbml:balloon>
-                    <cbml:balloon type="speech">If I got up to the rocks' shade... I should be able to climb without being spotted!
+                    <cbml:balloon type="speech" who="Johnny">If I got up to the rocks' shade... I should be able to climb without being spotted!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">The "enemy" has completely lost track of me!
+                    <cbml:balloon type="speech" who="Johnny">The "enemy" has completely lost track of me!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Plus, the hooks are moving further away!
+                    <cbml:balloon type="speech" who="Johnny">Plus, the hooks are moving further away!
                     </cbml:balloon>
                     <cbml:balloon type="sound">BSHOOOM
                     </cbml:balloon>
@@ -157,9 +157,9 @@
                     </cbml:balloon>
                     <cbml:balloon type="sound">BRR
                     </cbml:balloon>
-                    <cbml:balloon type="speech">That's my horse?! Huh?! What?!
+                    <cbml:balloon type="speech" who="Johnny">That's my horse?! Huh?! What?!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Alri--ght! It started moving!!
+                    <cbml:balloon type="speech" who="Johnny">Alri--ght! It started moving!!
                     </cbml:balloon>
                     <cbml:balloon type="sound">CLIP
                     </cbml:balloon>
@@ -167,23 +167,47 @@
                     </cbml:balloon>
                     <cbml:balloon type="sound">CLOP
                     </cbml:balloon>
-                    <cbml:balloon type="speech">GWEEEEGACHANG! Horses are obedient and senstitive! They'll return to their masters by smelling and listening for their breaths!
+                    <cbml:balloon type="speech" who="Pork Pie">GWEEEEGACHANG! Horses are obedient and senstitive! They'll return to their masters by smelling and listening for their breaths!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">You can have your beloved horse that you've traveled with through this harsh race!
+                    <cbml:balloon type="speech" who="Pork Pie">You can have your beloved horse that you've traveled with through this harsh race!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">I'll give it back to you, Jyoshterrr!
+                    <cbml:balloon type="speech" who="Pork Pie">I'll give it back to you, Jyoshterrr!
                     </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/12" xml:id="pg_12">
                 <cbml:panel n="12">
-                    <cbml:balloon type="speech">Is...is she?!
+                    <cbml:balloon type="speech" who="Johnny">Is...is she?!
                     </cbml:balloon>
-                    <cbml:balloon type="speech">What's she doing?
+                    <cbml:balloon type="speech" who="Johnny">What's she doing?
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Ha
+                    <cbml:balloon type="speech" who="Johnny">Ha
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Haa
+                    <cbml:balloon type="speech" who="Johnny">Haa
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BRR
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Wha...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Hmm, that direction, I see. So he was heading this way.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">WHAAAT?!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">CLOP
                     </cbml:balloon>
                     <cbml:balloon type="sound">BRR
                     </cbml:balloon>
@@ -191,29 +215,651 @@
                     </cbml:balloon>
                     <cbml:balloon type="sound">CLOP
                     </cbml:balloon>
-                    <cbml:balloon type="sound">CLIP
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/13" xml:id="pg_13">
+                <cbml:panel n="13">
+                    <cbml:balloon type="speech">The place where the horse stops!...
                     </cbml:balloon>
-                    <cbml:balloon type="speech">Wha...
-                    </cbml:balloon>
-                    <cbml:balloon type="speech">Hmm, that direction, I see. So he was heading this way.
-                    </cbml:balloon>
-                    <cbml:balloon type="speech">WHAAAT?!
-                    </cbml:balloon>
-                    <cbml:balloon type="sound">CLOP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound">CLIP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound">CLIP
-                    </cbml:balloon>
-                    <cbml:balloon type="sound">CLIP
+                    <cbml:balloon type="speech">...is where you're located Jyoshter! I'll tear you apart like I said I would!
                     </cbml:balloon>
                     <cbml:balloon type="sound">CLOP
                     </cbml:balloon>
-                    <cbml:balloon type="sound">BRR
+                    <cbml:balloon type="sound">CLIP
                     </cbml:balloon>
                     <cbml:balloon type="sound">CLIP
                     </cbml:balloon>
-                    <cbml:balloon type="sound">CLOP
+                    <cbml:balloon type="speech" who="Johnny">From here, it's still 500m until the rock mountain...! I need to decide! It will be a one on one battle right here!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I didn't think he would use my horse... He'll find me!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/14" xml:id="pg_14">
+                <cbml:panel n="14">
+                    <cbml:balloon type="speech" who="Johnny">My 'nail shots' !!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Against his 'hooks'!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRIP
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRIP
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">It's...wet!!...!!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">......He spilled something!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Ah!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">This... this smell!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/15" xml:id="pg_15">
+                <cbml:panel n="15">
+                    <cbml:balloon type="speech" who="Johnny">I can't shoot my 'nail shots' from here!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">My...my 'nails' won't reach outside the fire!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Just jump out and show your face!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Ah! He moved! Right there! I knew he was in the ground! But I'll try to avoid a close 'one-on-one' battle!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I'll wait until you've been burnt a bit before I tear you with my hooks! The 'corpse' is in your left hand, so there shouldn't be a problem!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">As long as the fire doesn't burn you on the inside!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">NEEIGH!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Whaaat?!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/16" xml:id="pg_16">
+                <cbml:panel n="16">
+                    <cbml:balloon type="speech" who="Pork Pie">This is the end!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Jyoshterrrr!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Aagh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uwoaaaaa!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">He stood up!!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Hahaaaa! He came out!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I see his suffering body!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Agh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uwoaa!!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Aah!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/17" xml:id="pg_17">
+                <cbml:panel n="17">
+                    <cbml:balloon type="speech" who="Pork Pie">Huh?! Wood?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Foom...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/18" xml:id="pg_18">
+                <cbml:panel n="18">
+                    <cbml:balloon type="speech" who="Johnny">I carved a dead tree into the shape of a person...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">And now the wires are right in front of me...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">This ability has far surpassed a simple 'nail'...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">It's a 'tusk'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">From now on I will call this 'Tusk'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Ah.......................................uh................
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/19" xml:id="pg_19">
+                <cbml:panel n="19">
+                    <cbml:balloon type="speech" who="Pork Pie">Obaaaa
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Ooh!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/20" xml:id="pg_20">
+                <cbml:panel n="20">
+                    <cbml:balloon type="speech" who="Pork Pie">Agyaaaaaaaaaaa
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Yes...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I did it...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/21" xml:id="pg_21">
+                <cbml:panel n="21">
+                    <cbml:balloon type="speech" who="Johnny">Hah Hah Haah Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hah Gyro... Haah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hah Haa Hah Haa Hah Haah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Gy...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/22" xml:id="pg_22">
+                <cbml:panel n="22">
+                    <cbml:balloon type="speech" who="Johnny">This entire 'Steel Ball Run Race' is basically a terrorist itself! Even the racers... and Stephen Steel... the sponsors... I can't trust anybody...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Except for Gyro... I can only trust in him. I want to hear his opinion on the 'corpse'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Come on! Where's the 'string' to fix your wound?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Are you breathing, Gyro?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">That 'string'!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/23" xml:id="pg_23">
+                <cbml:panel n="23">
+                    <cbml:balloon type="speech" who="Johnny">!?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">................
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">BUH
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/24" xml:id="pg_24">
+                <cbml:panel n="24">
+                    <cbml:balloon type="speech" who="Johnny">Whaaaat?!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Prrrrrrrrrrrr
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Jyoshter! You lose! You fell for it! I made Gyro himself the bait!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">That's my 'bait'!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">C...caught you!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">DRAG DRAG
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uwaaaaaaaaaaaaaaa
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/25" xml:id="pg_25">
+                <cbml:panel n="25">
+                    <cbml:balloon type="speech" who="Pork Pie">That's why I let Gyro live, you twe--rp!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Gashang!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">.................
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Uh...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/26" xml:id="pg_26">
+                <cbml:panel n="26">
+                    <cbml:balloon type="speech" who="Gyro">Gha!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Gh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Gha!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">J...Johnny?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Huh?
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/27" xml:id="pg_27">
+                <cbml:panel n="27">
+                    <cbml:balloon type="speech" who="Gyro">Uwoooa!!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Nooooo! Gyro!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I'll let you live, but only if you hand over the 'corpse'! That's my only goal!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Take it out from your 'arm' and hand it over!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Give the 'corpse' in your left hand to me!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Now! Or do you want to see what this place would look like if Gyro's insides were splattered all over the rocks?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">No... this can't be...!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Victory is mine, eh, Jyoshter?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I'll drag you into Gyro!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">If I pull the wries, you'll rip through Gyro and come to me!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/28" xml:id="pg_28">
+                <cbml:panel n="28">
+                    <cbml:balloon type="speech" who="Pork Pie">Wh...woa...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Waa!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/29" xml:id="pg_29">
+                <cbml:panel n="29">
+                    <cbml:balloon type="chaos">Johnny and Gyro are attacking Pork Pie.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/30" xml:id="pg_30">
+                <cbml:panel n="30">
+                    <cbml:balloon type="speech" who="Johnny">Float
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Float
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Ugh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Ugh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Aah! Gyro!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">You're a fun duo! You want to kill Gyro and come fight me?! Shithead!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">GWEEEEGACHANG
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">GWEEEEGACHANG
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Come on! Shoot me more!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/31" xml:id="pg_31">
+                <cbml:panel n="31">
+                    <cbml:balloon type="speech" who="Gyro">Ooh!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Aaah, Gyrooo!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Johnny... what's he talking about?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">'Corpse'...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I...I don't want to...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">My legs moved...Gyro...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I don't want to hand it over...what's in my hand...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">You can't do anything anymore! Just hand over the 'corpse' for fuck's sake!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/32" xml:id="pg_32">
+                <cbml:panel n="32">
+                    <cbml:balloon type="speech" who="Gyro">Uwoo!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Rip through Gyro... and come over here! Jyawnee!
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">WOOSH
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">WOOSH
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">WOOSH
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">TUM
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">And this is the last time I'll say this!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">The hooks come out from where you touch! That's the job of the 'bait'!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">You can't do anything else!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">You're the 'bait'!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Gyro Zeppeli!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/33" xml:id="pg_33">
+                <cbml:panel n="33">
+                    <cbml:balloon type="speech" who="Gyro">Uwoaaaaaaaaa!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uwaaah!!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/34" xml:id="pg_34">
+                <cbml:panel n="34">
+                    <cbml:balloon type="speech" who="Pork Pie">And it's you who ripped through him!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">it's overrrr!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/35" xml:id="pg_35">
+                <cbml:panel n="35">
+                    <cbml:balloon type="speech" who="Johnny">Uuh...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uh...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uh...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">KK...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Uuh...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Ho!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hoho!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">.....He took it out...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/36" xml:id="pg_36">
+                <cbml:panel n="36">
+                    <cbml:balloon type="speech" who="Johnny">But...take out both hooks from Gyro...or else..
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I'll destroy this 'corpse's left hand' myself.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">S...stop it...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Take this...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Aah...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/37" xml:id="pg_37">
+                <cbml:panel n="37">
+                    <cbml:balloon type="speech" who="Pork Pie">Yes!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">My 'ability' is gone... I can't spin them anymore...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">My nails...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">It stopped...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I don't know why everyone wants this, but I'm invincible!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I proved that I'm invincible and smart! Now everybody will approve of me! I'll be approved and I can climb up to a higher rank!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Wow!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">So this is the 'corpse'?
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/38" xml:id="pg_38">
+                <cbml:panel n="38">
+                    <cbml:balloon type="speech" who="Gyro">The nails won't spin, you say?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">They are still spinning.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Johnny...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">They're in the midst of spinning right now.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">And now I'll have them die! Gyro is still the 'bait'!!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I did it!!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/39" xml:id="pg_39">
+                <cbml:panel n="39">
+                    <cbml:balloon type="speech" who="Pork Pie">AAAAAAAAAAAAAAA
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Hub!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Gyro...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">I should have killed him. But then... I couldn't have used him as a hostage and 'bait'...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Pork Pie">Dyam! Either way...
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Those...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Nails of the 'corpse'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I just made them spin...
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                    <cbml:balloon type="sound">SHOOM
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/40" xml:id="pg_40">
+                <cbml:panel n="40">
+                    <cbml:balloon type="chaos">Gyro has taken back the corpse.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/41" xml:id="pg_41">
+                <cbml:panel n="41">
+                    <cbml:balloon type="speech" who="Johnny">Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">There...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Hah
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Haa
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Agh...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/42" xml:id="pg_42">
+                <cbml:panel n="42">
+                    <cbml:balloon type="speech" who="Gyro">Well... Maybe a little....... Actually, no.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I'm not interested.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">You're gonna give it back?!....to me...?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">You don't want it?! S...so, the reason you joined the race wasn't to find these 'corpse parts'?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">You...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">...But I'm starting to get it. The terrorists think that I'm hiding that with me somehwere!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">All I want is to finish in 1st place to receive an 'amnesty' from my king.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/43" xml:id="pg_43">
+                <cbml:panel n="43">
+                    <cbml:balloon type="speech" who="Johnny"> So you're syaing there are body parts scattered near the course of this race, and that they become a 'unified corpse' if they are all gathered together...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">.............
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">They must have designed the course having a general idea of where the corpse parts are 'located'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">The terrorists, this country, the producer... they're all connected. Otherwise, this wouldn't be possible!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">The steel ball run race is a conspiracy to find the scattered 'corpse parts'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">What is this corpse?!...... And whose corpse is it?! I shouldn't have hidden it from you when I found this 'corpse part'... I want to hear your opinion.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">...And the terrorists collect all the parts in the end... That's the purpose of this race.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">...But 'those with ability' can find the exact location...
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/44" xml:id="pg_44">
+                <cbml:panel n="44">
+                    <cbml:balloon type="speech" who="Johnny">I've already made up my mind...................... Yes.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">...Already decided to find the rest, too.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Wait... Don't tell me that you;ve...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">In many ways...there's no way I'm going back to being a 'quitter'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">I'm going all the way!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">But if I lose this, I'm back to the loser that I was... I don't know whose 'corpse' this is...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I see. Well, let's make this clear... Don't count on me.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I'm not going corpse hunting.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/45" xml:id="pg_45">
+                <cbml:panel n="45">
+                    <cbml:balloon type="speech" who="Gyro">You'll find it if you investiagte.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">There must be some 'record' on that corpse. If these terrorists are searching for a mummified corpse...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">But I'll tell you what I think......
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">But it's probably a corpse of some 'saint'.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/46" xml:id="pg_46">
+                <cbml:panel n="46">
+                    <cbml:balloon type="speech" who="Gyro">Movere crus. I don't know why this is written on your arm, but it's latin. It means... 'move your legs'.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I'm just saying my personal opinion. You must be the type that listens to half of what people say, and then judge them!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">This is my assumption...But it's true that there is a 'record'. There is a record in my country.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Wait! Calm down, you...!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Gyrooo! So you do know something about this!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Do you know.....what kind of people the word 'saint' is used for?
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">You can read it? Latin... An old language...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">Like, Mary...and Peter...and.....well.....................
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/47" xml:id="pg_47">
+                <cbml:panel n="47">
+                    <cbml:balloon type="speech" who="Gyro">The word 'saint' is used for those who cause 'miracles' after they die!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">That's not a complete answer.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">That's why it takes hundreds of years for some of them to be declared a saint. It points only to those greatest people. And if these terrorsts created a race just to look for the corpse, it must be a very important saint.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Let me repeat that...it's after they die! Not only while they've lived... The papacy has a 'stipulation' that has at least two miracles have to happen after the person's death for them to be labeled a 'saint'!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">...And the bodies of saints do not rot for hundreds of years.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/48" xml:id="pg_48">
+                <cbml:panel n="48">
+                    <cbml:balloon type="narration">Saint Mark was celebrated as the patron saint, and the state that was created on a small island surprisingly prospered for 1000 years. Whether Christian or not, people long for 'saints'. For example, in 828 A.D., when the nation of 'venice' was in its developing stages... It stole the body of 'saint mark', the writers of one of the gospels, from alexandria... Which was part of the byzantine empire at the time.
+                    </cbml:balloon>
+                    <cbml:balloon type="narration">Any country would move... It's not always plain to see, but people would gladly give their lives for 'saints'. The greatest of saints offer the glory and power of 1000 years.
+                    </cbml:balloon>
+                    <cbml:balloon type="narration">Believe it or not, it's because the have the 'corpses of saints'. A 'millennial kingdom'... The only nations in history that have prospered for over 1000 years are venice and the vatican, which itself has lasted almost 1900 years. Even the historic edo shogunate of the east only lasted 250 years.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/49" xml:id="pg_49">
+                <cbml:panel n="49">
+                    <cbml:balloon type="speech" who="Gyro">There you have it...two miracles.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">If you do it in the vacitan it'll be easily recognized as a saint......that mummy...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">And...'my lame feet moved'... my stand ability... my nails 'spun'...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">...a s...'saint'......
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I'm just saying...if you want to look for the corpse parts, fine...but...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">You'll find it if you look it up in my homeland, I'm telling you! 'Saints' exist for the common people... so they can never be hidden in the shadows of history...there's always a record.
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">But wait, this is the new world! Have any of the 'saints' crossed to America?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Johnny">And why are they scattered across this land?
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/50" xml:id="pg_50">
+                <cbml:panel n="50">
+                    <cbml:balloon type="speech" who="Gyro">And the 3rd stage!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Let's do this! Monument valley...
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">If so--I'll let you come with me, Johnny!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">I'm going to be 1st in this race! And you'll be 2nd! Don't forget that promise!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/51" xml:id="pg_51">
+                <cbml:panel n="51">
+                    <cbml:balloon type="speech" who="Gyro">Hey, look!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Who are they?!
+                    </cbml:balloon>
+                    <cbml:balloon type="speech" who="Gyro">Johnny, gather your stuff! It's Dio and Sandman!
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/52" xml:id="pg_52">
+                <cbml:panel n="52">
+                    <cbml:balloon type="credits">Part7 Steel Ball Run copyright Lucky Land Communications 2005, 2012
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/53" xml:id="pg_53">
+                <cbml:panel n="53">
+                    <cbml:balloon type="credits">Jojo's Colored Adventure Team; Translation: Stardust Crusaders; Cleaning: Bracketier; Typesetting: Bracketier; Proofreading: Huldra, Tonio; This volune of Jojo's Bizarre Adventure: Part 7 - Steel Ball Run is presented bu Jojo's Colored Adventure Team. We hope that you have enjoyed reading it, and encourage you to read our outher releases.
+                    </cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="https://mangadex.org/chapter/a8501eae-f9e8-4f46-a2b6-27f4984835c7/54" xml:id="pg_54">
+                <cbml:panel n="54">
+                    <cbml:balloon type="credits">Jojo's Colored Adventure Team proudly presents, Jojo's Bizarre Adventure Part 7: Steel Ball Run Chapter 27; Translation: Ack44; Cleaning: Bracketier; Typesetting: Bracketier; Quality Control: Huldra, Tonio
                     </cbml:balloon>
                 </cbml:panel>
             </div>
